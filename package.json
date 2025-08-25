@@ -1,0 +1,48 @@
+{
+  "name": "lexiscope",
+  "version": "0.1.0",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build && ts-node scripts/build-index.ts",
+    "start": "next start",
+    "typecheck": "tsc --noEmit",
+    "lint": "eslint .",
+    "format": "prettier --write .",
+    "data:import:text": "ts-node scripts/import-ng-constitution.ts",
+    "data:import:csv": "ts-node scripts/import-from-csv.ts",
+    "data:crossrefs": "ts-node scripts/generate-crossrefs.ts",
+    "data:validate": "ts-node scripts/validate.ts",
+    "data:build-index": "ts-node scripts/build-index.ts",
+    "test": "vitest run",
+    "test:e2e": "playwright test"
+  },
+  "dependencies": {
+    "clsx": "^2.0.0",
+    "elasticlunr": "^0.9.5",
+    "next": "^14.2.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "zod": "^3.22.4"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.41.2",
+    "@types/node": "^20.11.30",
+    "@types/react": "^18.2.21",
+    "@types/react-dom": "^18.2.7",
+    "@typescript-eslint/eslint-plugin": "^6.4.0",
+    "@typescript-eslint/parser": "^6.4.0",
+    "autoprefixer": "^10.4.14",
+    "eslint": "^8.47.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-config-next": "^14.2.3",
+    "postcss": "^8.4.31",
+    "prettier": "^3.0.3",
+    "tailwindcss": "^3.3.5",
+    "@tailwindcss/typography": "^0.5.9",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2",
+    "vitest": "^0.34.4"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "jurisdiction": "NG",
+  "title": "Constitution of the Federal Republic of Nigeria",
+  "version": "1999 (as amended)",
+  "parts": [
+    {
+      "id": "part1",
+      "title": "Part I",
+      "chapters": [
+        {
+          "id": "chap4",
+          "title": "Chapter IV - Fundamental Rights",
+          "sections": [
+            {
+              "id": "s33",
+              "number": "33",
+              "marginal_title": "Right to life",
+              "text": "Seed text — replace with actual. Every person has a right to life.",
+              "keywords": ["life", "fundamental rights"],
+              "notes": ""
+            },
+            {
+              "id": "s34",
+              "number": "34",
+              "marginal_title": "Dignity of human person",
+              "text": "Seed text — replace with actual. No person shall be subject to torture.",
+              "keywords": ["dignity", "torture"],
+              "notes": ""
+            },
+            {
+              "id": "s35",
+              "number": "35",
+              "marginal_title": "Personal liberty",
+              "text": "Seed text — replace with actual. Every person shall be entitled to personal liberty.",
+              "keywords": ["liberty"],
+              "notes": ""
+            },
+            {
+              "id": "s36",
+              "number": "36",
+              "marginal_title": "Fair hearing",
+              "text": "Seed text — replace with actual. In the determination of civil rights and obligations, a person shall be entitled to a fair hearing.",
+              "keywords": ["fair hearing"],
+              "notes": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
