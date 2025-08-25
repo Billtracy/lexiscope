@@ -1,0 +1,22 @@
+{
+  "s33": {
+    "related_sections": ["s34", "s35"],
+    "topics": ["fundamental-rights"],
+    "case_law": []
+  },
+  "s34": {
+    "related_sections": ["s33", "s35"],
+    "topics": ["fundamental-rights"],
+    "case_law": []
+  },
+  "s35": {
+    "related_sections": ["s34", "s36"],
+    "topics": ["fundamental-rights"],
+    "case_law": []
+  },
+  "s36": {
+    "related_sections": ["s35"],
+    "topics": ["fundamental-rights"],
+    "case_law": []
+  }
+}

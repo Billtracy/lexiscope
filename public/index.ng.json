@@ -1,0 +1,65 @@
+{
+  "version": "0.9.5",
+  "fields": ["number", "marginal_title", "text", "keywords"],
+  "ref": "id",
+  "documentStore": {
+    "docs": {
+      "s33": {
+        "id": "s33",
+        "number": "33",
+        "marginal_title": "Right to life",
+        "text": "Seed text — replace with actual. Every person has a right to life.",
+        "keywords": "life fundamental-rights"
+      },
+      "s34": {
+        "id": "s34",
+        "number": "34",
+        "marginal_title": "Dignity of human person",
+        "text": "Seed text — replace with actual. No person shall be subject to torture.",
+        "keywords": "dignity torture"
+      },
+      "s35": {
+        "id": "s35",
+        "number": "35",
+        "marginal_title": "Personal liberty",
+        "text": "Seed text — replace with actual. Every person shall be entitled to personal liberty.",
+        "keywords": "liberty"
+      },
+      "s36": {
+        "id": "s36",
+        "number": "36",
+        "marginal_title": "Fair hearing",
+        "text": "Seed text — replace with actual. In the determination of civil rights and obligations, a person shall be entitled to a fair hearing.",
+        "keywords": "fair hearing"
+      }
+    },
+    "docInfo": {
+      "s33": {"number": 1, "marginal_title": 3, "text": 12, "keywords": 2},
+      "s34": {"number": 1, "marginal_title": 3, "text": 11, "keywords": 2},
+      "s35": {"number": 1, "marginal_title": 2, "text": 13, "keywords": 1},
+      "s36": {"number": 1, "marginal_title": 2, "text": 17, "keywords": 2}
+    },
+    "length": 4
+  },
+  "tokenStore": {
+    "root": {
+      "docs": {},
+      "l": {
+        "docs": {},
+        "i": {
+          "docs": {},
+          "f": {
+            "docs": {},
+            "e": {
+              "docs": {
+                "s33": {"tf": 1}
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "corpusTokens": ["life"],
+  "pipeline": ["trimmer", "stopWordFilter", "stemmer"]
+}
