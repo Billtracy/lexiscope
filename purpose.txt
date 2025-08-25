@@ -1,0 +1,9 @@
+This project is meant to be an open source piece of software that will be a crossover between Law and Technology
+This will be basically a Constitution with crossreference 
+
+Interactive Nigerian Constitution app.
+
+Search any section, cross-reference related provisions (e.g., S.33 → Right to Life → related cases).
+
+Add “compare mode” to show how India/US constitutions handle same right.
+
