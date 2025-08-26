@@ -1,22 +1,26 @@
 {
   "s33": {
-    "related_sections": ["s34", "s35"],
-    "topics": ["fundamental-rights"],
-    "case_law": []
+    "related_sections": [],
+    "topics": [],
+    "case_law": [],
+    "alt_constitutions": []
   },
   "s34": {
-    "related_sections": ["s33", "s35"],
-    "topics": ["fundamental-rights"],
-    "case_law": []
+    "related_sections": [],
+    "topics": [],
+    "case_law": [],
+    "alt_constitutions": []
   },
   "s35": {
-    "related_sections": ["s34", "s36"],
-    "topics": ["fundamental-rights"],
-    "case_law": []
+    "related_sections": [],
+    "topics": [],
+    "case_law": [],
+    "alt_constitutions": []
   },
   "s36": {
-    "related_sections": ["s35"],
-    "topics": ["fundamental-rights"],
-    "case_law": []
+    "related_sections": [],
+    "topics": [],
+    "case_law": [],
+    "alt_constitutions": []
   }
 }

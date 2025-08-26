@@ -18,7 +18,12 @@ constitution.parts.forEach((p) =>
   p.chapters.forEach((c) =>
     c.sections.forEach((s) => {
       sectionMap[s.id] = s;
-      refs[s.id] = { related_sections: [], topics: [], case_law: [] };
+      refs[s.id] = {
+        related_sections: [],
+        topics: [],
+        case_law: [],
+        alt_constitutions: [],
+      };
     })
   )
 );

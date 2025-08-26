@@ -5,17 +5,15 @@ interface CrossRefData {
   related_sections: string[];
   topics: string[];
   case_law: Array<{ name: string; citation?: string; url?: string }>;
+  alt_constitutions: Array<{ jurisdiction: string; section: string }>;
 }
 
 export function CrossRefs({ refs }: { refs: CrossRefData }) {
-  if (!refs.related_sections.length && !refs.case_law.length) {
-    return <p className="text-sm text-gray-500">No related sections.</p>;
-  }
   return (
     <section className="space-y-4">
-      {refs.related_sections.length > 0 && (
-        <div>
-          <h2 className="font-semibold mb-2">Related Sections</h2>
+      <div>
+        <h2 className="font-semibold mb-2">Related Sections</h2>
+        {refs.related_sections.length > 0 ? (
           <ul className="list-disc list-inside space-y-1">
             {refs.related_sections.map((id) => (
               <li key={id}>
@@ -25,11 +23,13 @@ export function CrossRefs({ refs }: { refs: CrossRefData }) {
               </li>
             ))}
           </ul>
-        </div>
-      )}
-      {refs.case_law.length > 0 && (
-        <div>
-          <h2 className="font-semibold mb-2">Case Law</h2>
+        ) : (
+          <p className="text-sm text-gray-500">None</p>
+        )}
+      </div>
+      <div>
+        <h2 className="font-semibold mb-2">Case Law</h2>
+        {refs.case_law.length > 0 ? (
           <ul className="list-disc list-inside space-y-1">
             {refs.case_law.map((c) => (
               <li key={c.name}>
@@ -44,8 +44,24 @@ export function CrossRefs({ refs }: { refs: CrossRefData }) {
               </li>
             ))}
           </ul>
-        </div>
-      )}
+        ) : (
+          <p className="text-sm text-gray-500">No case law references yet.</p>
+        )}
+      </div>
+      <div>
+        <h2 className="font-semibold mb-2">Alternative Constitutions</h2>
+        {refs.alt_constitutions.length > 0 ? (
+          <ul className="list-disc list-inside space-y-1">
+            {refs.alt_constitutions.map((c) => (
+              <li key={`${c.jurisdiction}-${c.section}`}>
+                {c.jurisdiction}: {c.section}
+              </li>
+            ))}
+          </ul>
+        ) : (
+          <p className="text-sm text-gray-500">No alternate constitution references yet.</p>
+        )}
+      </div>
       {refs.topics.length > 0 && (
         <div className="flex gap-2 flex-wrap">
           {refs.topics.map((t) => (

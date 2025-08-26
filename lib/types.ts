@@ -33,6 +33,7 @@ export interface CrossRefs {
     related_sections: string[];
     topics: string[];
     case_law: Array<{ name: string; citation?: string; url?: string }>;
+    alt_constitutions: Array<{ jurisdiction: string; section: string }>;
   };
 }
 

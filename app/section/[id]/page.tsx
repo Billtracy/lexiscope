@@ -21,7 +21,13 @@ export default async function SectionPage({ params }: { params: Params }) {
   const section = chapter?.sections.find((s) => s.id === id);
   if (!section) return notFound();
 
-  const refs = crossRefs[id] || { related_sections: [], topics: [], case_law: [] };
+  const refs =
+    crossRefs[id] || {
+      related_sections: [],
+      topics: [],
+      case_law: [],
+      alt_constitutions: [],
+    };
 
   return (
     <div className="space-y-6">
