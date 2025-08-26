@@ -1,6 +1,9 @@
 import fs from 'fs';
 import path from 'path';
-import { ConstitutionSchema } from './types';
+import { fileURLToPath } from 'url';
+import { ConstitutionSchema } from './types.js';
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 const dataPath = path.join(__dirname, '..', 'data', 'constitution.ng.json');
 

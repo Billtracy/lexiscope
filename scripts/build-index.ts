@@ -1,7 +1,10 @@
 import fs from 'fs';
 import path from 'path';
+import { fileURLToPath } from 'url';
 import elasticlunr from 'elasticlunr';
-import { ConstitutionSchema } from './types';
+import { ConstitutionSchema } from './types.js';
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 const dataPath = path.join(__dirname, '..', 'data', 'constitution.ng.json');
 const outPath = path.join(__dirname, '..', 'public', 'index.ng.json');
