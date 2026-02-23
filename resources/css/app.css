@@ -1,0 +1,195 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    :root {
+        --color-brand: 79 70 229; /* indigo-600 */
+    }
+
+    body {
+        @apply antialiased bg-slate-50 text-slate-800;
+    }
+
+    .dark body {
+        @apply bg-slate-950 text-slate-100;
+    }
+}
+
+@layer components {
+
+    /* ── Stat / Info Cards ─────────────────────────────── */
+    .stat-card {
+        @apply bg-white dark:bg-slate-800 rounded-2xl p-5 shadow-card
+               transition-all duration-250
+               hover:shadow-card-hover hover:-translate-y-0.5;
+    }
+
+    .stat-card-icon {
+        @apply w-10 h-10 rounded-xl flex items-center justify-center text-lg shrink-0;
+    }
+
+    /* ── Content Cards ─────────────────────────────────── */
+    .content-card {
+        @apply bg-white dark:bg-slate-800 rounded-2xl shadow-card overflow-hidden;
+    }
+
+    .content-card-header {
+        @apply px-5 py-4 border-b border-slate-100 dark:border-slate-700
+               flex items-center justify-between;
+    }
+
+    .content-card-body {
+        @apply p-5;
+    }
+
+    /* ── Section headings ──────────────────────────────── */
+    .section-heading {
+        @apply text-xs font-semibold uppercase tracking-widest text-slate-400 dark:text-slate-500;
+    }
+
+    /* ── Status Badges ─────────────────────────────────── */
+    .badge {
+        @apply inline-flex items-center gap-1.5 px-2.5 py-0.5
+               text-xs font-semibold rounded-full whitespace-nowrap;
+    }
+
+    .badge-ai {
+        @apply badge bg-blue-100 text-blue-700 dark:bg-blue-900/40 dark:text-blue-300;
+    }
+
+    .badge-draft {
+        @apply badge bg-amber-100 text-amber-700 dark:bg-amber-900/40 dark:text-amber-300;
+    }
+
+    .badge-published {
+        @apply badge bg-emerald-100 text-emerald-700 dark:bg-emerald-900/40 dark:text-emerald-300;
+    }
+
+    .badge-locked {
+        @apply badge bg-slate-100 text-slate-500 dark:bg-slate-700 dark:text-slate-400;
+    }
+
+    .badge-admin {
+        @apply badge bg-violet-100 text-violet-700 dark:bg-violet-900/40 dark:text-violet-300;
+    }
+
+    .badge-student {
+        @apply badge bg-emerald-100 text-emerald-700 dark:bg-emerald-900/40 dark:text-emerald-300;
+    }
+
+    /* ── Buttons ───────────────────────────────────────── */
+    .btn {
+        @apply inline-flex items-center justify-center gap-2 rounded-xl
+               font-semibold text-sm transition-all duration-200
+               focus:outline-none focus-visible:ring-2 focus-visible:ring-offset-2;
+    }
+
+    .btn-primary {
+        @apply btn px-5 py-2.5
+               bg-brand-600 text-white
+               hover:bg-brand-700 active:scale-95
+               focus-visible:ring-brand-500;
+    }
+
+    .btn-success {
+        @apply btn px-5 py-2.5
+               bg-emerald-600 text-white
+               hover:bg-emerald-700 active:scale-95
+               focus-visible:ring-emerald-500;
+    }
+
+    .btn-ghost {
+        @apply btn px-5 py-2.5
+               bg-transparent text-slate-600 dark:text-slate-300
+               hover:bg-slate-100 dark:hover:bg-slate-700/60 active:scale-95
+               focus-visible:ring-slate-400;
+    }
+
+    .btn-sm {
+        @apply px-3 py-1.5 text-xs rounded-lg;
+    }
+
+    .btn-icon {
+        @apply btn w-9 h-9 rounded-xl p-0
+               text-slate-500 dark:text-slate-400
+               hover:bg-slate-100 dark:hover:bg-slate-700/60 active:scale-95;
+    }
+
+    /* ── Form elements ─────────────────────────────────── */
+    .field-label {
+        @apply block text-sm font-medium text-slate-700 dark:text-slate-300 mb-1;
+    }
+
+    .field-input {
+        @apply block w-full rounded-xl border-slate-300 dark:border-slate-600
+               bg-white dark:bg-slate-900 text-slate-800 dark:text-slate-100
+               shadow-sm text-sm
+               focus:border-brand-500 focus:ring-brand-500
+               transition-colors duration-150;
+    }
+
+    .field-textarea {
+        @apply field-input resize-y min-h-[10rem];
+    }
+
+    /* ── Avatar Initials ───────────────────────────────── */
+    .avatar {
+        @apply w-9 h-9 rounded-full flex items-center justify-center
+               text-sm font-bold uppercase shrink-0 select-none;
+    }
+
+    /* ── Nav link (desktop) ────────────────────────────── */
+    .nav-top-link {
+        @apply inline-flex items-center gap-2 px-1 pt-1
+               border-b-2 text-sm font-medium
+               transition-colors duration-150;
+    }
+
+    .nav-top-link-active {
+        @apply nav-top-link border-brand-600 text-brand-700 dark:text-brand-400;
+    }
+
+    .nav-top-link-inactive {
+        @apply nav-top-link border-transparent text-slate-500 dark:text-slate-400
+               hover:text-slate-700 dark:hover:text-slate-200
+               hover:border-slate-300 dark:hover:border-slate-600;
+    }
+
+    /* ── Mobile bottom nav item ────────────────────────── */
+    .bottom-nav-item {
+        @apply flex flex-col items-center justify-center gap-0.5 flex-1 py-2
+               text-slate-400 dark:text-slate-500 transition-colors duration-150;
+    }
+
+    .bottom-nav-item-active {
+        @apply !text-brand-600 dark:!text-brand-400;
+    }
+
+    /* ── Quick-action card (dashboard) ────────────────── */
+    .action-card {
+        @apply content-card flex items-center gap-4 p-5
+               cursor-pointer transition-all duration-250
+               hover:shadow-card-hover hover:-translate-y-0.5 active:scale-[0.98];
+    }
+
+    /* ── Empty state ───────────────────────────────────── */
+    .empty-state {
+        @apply flex flex-col items-center justify-center py-16 text-center;
+    }
+
+    /* ── Toast / Alert ─────────────────────────────────── */
+    .alert-success {
+        @apply flex items-center gap-3 px-4 py-3 rounded-xl
+               bg-emerald-50 border border-emerald-200 text-emerald-800
+               dark:bg-emerald-900/30 dark:border-emerald-700 dark:text-emerald-300
+               text-sm font-medium;
+    }
+
+    .alert-error {
+        @apply flex items-center gap-3 px-4 py-3 rounded-xl
+               bg-red-50 border border-red-200 text-red-800
+               dark:bg-red-900/30 dark:border-red-700 dark:text-red-300
+               text-sm font-medium;
+    }
+}

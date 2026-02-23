@@ -1,0 +1,1286 @@
+{
+    "nodes": [
+        {
+            "type": "chapter",
+            "hierarchy": {
+                "chapter": "I",
+                "chapter_title": "General Provisions",
+                "section_number": null,
+                "section_title": null,
+                "subsection_number": null
+            },
+            "content": {
+                "legal_text": "Chapter I: General Provisions",
+                "plain_english": "This chapter introduces the fundamental rules and principles that govern the nation of Nigeria.",
+                "keywords": [
+                    "Chapter I",
+                    "General Provisions",
+                    "Constitution Introduction",
+                    "Fundamental Principles"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [],
+                "international_comparisons": [
+                    {
+                        "country": "United States",
+                        "constitution_provision": "Preamble, Article I, Section 1",
+                        "similarity_note": "Similar introductory sections or articles establish the foundational principles and structure of the government.",
+                        "related_link": "https://constitution.congress.gov/constitution/"
+                    },
+                    {
+                        "country": "India",
+                        "constitution_provision": "Preamble, Part I: The Union and its Territory",
+                        "similarity_note": "Constitutions often begin with general provisions defining the state and its foundational principles.",
+                        "related_link": "https://legislative.gov.in/constitution-of-india/"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "hierarchy": {
+                "chapter": "I",
+                "chapter_title": "General Provisions",
+                "section_number": null,
+                "section_title": "Part I: Federal Republic of Nigeria",
+                "subsection_number": null
+            },
+            "content": {
+                "legal_text": "Part I: Federal Republic of Nigeria",
+                "plain_english": "This section defines Nigeria as a federal republic, outlining its fundamental nature and structure.",
+                "keywords": [
+                    "Federal Republic",
+                    "Nigeria",
+                    "National Identity",
+                    "Constitutional Structure"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [],
+                "international_comparisons": []
+            }
+        },
+        {
+            "type": "section",
+            "hierarchy": {
+                "chapter": "I",
+                "chapter_title": "General Provisions",
+                "section_number": "1",
+                "section_title": "Supremacy of the Constitution",
+                "subsection_number": null
+            },
+            "content": {
+                "legal_text": "1. (1) This Constitution is supreme and its provisions shall have binding force on the authorities and persons throughout the Federal Republic of Nigeria. (2) The Federal Republic of Nigeria shall not be governed, nor shall any persons or group of persons take control of the Government of Nigeria or any part thereof, except in accordance with the provisions of this Constitution. (3) If any other law is inconsistent with the provisions of this Constitution, this Constitution shall prevail, and that other law shall, to the extent of the inconsistency, be void.",
+                "plain_english": "The Constitution is the highest law in Nigeria, and everyone, including the government, must follow it. No one can govern Nigeria or any part of it without following this Constitution. If any other law conflicts with the Constitution, the Constitution wins, and the conflicting part of the other law becomes invalid.",
+                "keywords": [
+                    "Constitutional Supremacy",
+                    "Binding Force",
+                    "Rule of Law",
+                    "Inconsistency",
+                    "Void Law",
+                    "Federal Republic of Nigeria",
+                    "Government Control"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [
+                    {
+                        "case_title": "Attorney General of Ondo State v. Attorney General of the Federation",
+                        "citation": "(2002) 9 NWLR (Pt. 772) 222",
+                        "relevance_summary": "This Nigerian Supreme Court case affirmed the supremacy of the Federal Constitution over state laws and the principle of federalism.",
+                        "url": null
+                    },
+                    {
+                        "case_title": "Marbury v. Madison",
+                        "citation": "5 U.S. 137 (1803)",
+                        "relevance_summary": "A landmark U.S. Supreme Court case that established judicial review, affirming the supremacy of the Constitution over legislative acts.",
+                        "url": "https://www.oyez.org/cases/1789-1850/5us137"
+                    },
+                    {
+                        "case_title": "A.K. Gopalan v. State of Madras",
+                        "citation": "AIR 1950 SC 27",
+                        "relevance_summary": "An early Indian Supreme Court case discussing the interpretation of fundamental rights and the supremacy of the Constitution.",
+                        "url": null
+                    }
+                ],
+                "international_comparisons": [
+                    {
+                        "country": "United States",
+                        "constitution_provision": "Article VI, Clause 2 (Supremacy Clause)",
+                        "similarity_note": "The U.S. Constitution also establishes itself as the supreme law of the land, overriding conflicting state laws.",
+                        "related_link": "https://constitution.congress.gov/constitution/article-6/"
+                    },
+                    {
+                        "country": "India",
+                        "constitution_provision": "Article 13 (Laws inconsistent with or in derogation of the fundamental rights)",
+                        "similarity_note": "The Indian Constitution declares that any law inconsistent with fundamental rights shall be void, reinforcing constitutional supremacy.",
+                        "related_link": "https://legislative.gov.in/constitution-of-india/article-13"
+                    },
+                    {
+                        "country": "United Kingdom",
+                        "constitution_provision": "Uncodified Constitution, Parliamentary Sovereignty",
+                        "similarity_note": "In contrast, the UK operates under parliamentary sovereignty, where Parliament is the supreme law-making body, though this is increasingly debated in light of human rights legislation and EU law (pre-Brexit).",
+                        "related_link": "https://www.parliament.uk/about/how/sovereignty/"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "I",
+                "chapter_title": "General Provisions",
+                "section_number": "1",
+                "section_title": "Supremacy of the Constitution",
+                "subsection_number": "(1)"
+            },
+            "content": {
+                "legal_text": "This Constitution is supreme and its provisions shall have binding force on the authorities and persons throughout the Federal Republic of Nigeria.",
+                "plain_english": "This Constitution is the highest law, and all government bodies and individuals in Nigeria must obey its rules.",
+                "keywords": [
+                    "Constitution",
+                    "Supreme Law",
+                    "Binding Force",
+                    "Authorities",
+                    "Persons",
+                    "Federal Republic of Nigeria"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [],
+                "international_comparisons": []
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "I",
+                "chapter_title": "General Provisions",
+                "section_number": "1",
+                "section_title": "Supremacy of the Constitution",
+                "subsection_number": "(2)"
+            },
+            "content": {
+                "legal_text": "The Federal Republic of Nigeria shall not be governed, nor shall any persons or group of persons take control of the Government of Nigeria or any part thereof, except in accordance with the provisions of this Constitution.",
+                "plain_english": "Nigeria cannot be governed, and no individual or group can take control of the government, unless they follow the rules set out in this Constitution.",
+                "keywords": [
+                    "Governance",
+                    "Control of Government",
+                    "Constitutional Compliance",
+                    "Rule of Law",
+                    "Federal Republic of Nigeria"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [],
+                "international_comparisons": []
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "I",
+                "chapter_title": "General Provisions",
+                "section_number": "1",
+                "section_title": "Supremacy of the Constitution",
+                "subsection_number": "(3)"
+            },
+            "content": {
+                "legal_text": "If any other law is inconsistent with the provisions of this Constitution, this Constitution shall prevail, and that other law shall, to the extent of the inconsistency, be void.",
+                "plain_english": "If any other law contradicts this Constitution, the Constitution takes precedence, and the conflicting part of that other law is invalid.",
+                "keywords": [
+                    "Inconsistency",
+                    "Constitutional Supremacy",
+                    "Prevail",
+                    "Void Law",
+                    "Legal Hierarchy"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [],
+                "international_comparisons": []
+            }
+        },
+        {
+            "type": "section",
+            "hierarchy": {
+                "chapter": "I",
+                "chapter_title": "General Provisions",
+                "section_number": "2",
+                "section_title": "Nigeria as a Sovereign State and Federation",
+                "subsection_number": null
+            },
+            "content": {
+                "legal_text": "2. (1) Nigeria is one indivisible and indissoluble sovereign state to be known by the name of the Federal Republic of Nigeria. (2) Nigeria shall be a Federation consisting of States and a Federal Capital Territory.",
+                "plain_english": "Nigeria is a single, unified, and permanent independent nation called the Federal Republic of Nigeria. It is organized as a federation, meaning it's made up of various States and a Federal Capital Territory.",
+                "keywords": [
+                    "Sovereign State",
+                    "Indivisible",
+                    "Indissoluble",
+                    "Federal Republic of Nigeria",
+                    "Federation",
+                    "States",
+                    "Federal Capital Territory"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [
+                    {
+                        "case_title": "Attorney General of the Federation v. Attorney General of Abia State",
+                        "citation": "(2002) 6 NWLR (Pt. 764) 542",
+                        "relevance_summary": "This case involved a dispute over the control of offshore resources, highlighting the federal structure and the indivisibility of Nigeria.",
+                        "url": null
+                    },
+                    {
+                        "case_title": "S.R. Bommai v. Union of India",
+                        "citation": "AIR 1994 SC 1918",
+                        "relevance_summary": "A landmark Indian Supreme Court case that discussed the principles of federalism and the limitations on the central government's power to dismiss state governments, reinforcing the federal structure.",
+                        "url": null
+                    }
+                ],
+                "international_comparisons": [
+                    {
+                        "country": "United States",
+                        "constitution_provision": "Preamble, Article IV, Section 3",
+                        "similarity_note": "The U.S. Constitution establishes a 'more perfect Union' and outlines the process for admitting new states, reflecting its federal and indivisible nature.",
+                        "related_link": "https://constitution.congress.gov/constitution/article-4/"
+                    },
+                    {
+                        "country": "India",
+                        "constitution_provision": "Article 1 (India, that is Bharat, shall be a Union of States)",
+                        "similarity_note": "The Indian Constitution explicitly declares India as a 'Union of States,' emphasizing its federal structure and indivisibility.",
+                        "related_link": "https://legislative.gov.in/constitution-of-india/article-1"
+                    },
+                    {
+                        "country": "Germany",
+                        "constitution_provision": "Article 20 (The Federal Republic of Germany is a democratic and social federal state.)",
+                        "similarity_note": "The German Basic Law clearly defines Germany as a federal state, similar to Nigeria's constitutional declaration.",
+                        "related_link": "https://www.gesetze-im-internet.de/gg/art_20.html"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "I",
+                "chapter_title": "General Provisions",
+                "section_number": "2",
+                "section_title": "Nigeria as a Sovereign State and Federation",
+                "subsection_number": "(1)"
+            },
+            "content": {
+                "legal_text": "Nigeria is one indivisible and indissoluble sovereign state to be known by the name of the Federal Republic of Nigeria.",
+                "plain_english": "Nigeria is a single, unified, and permanent independent nation, officially named the Federal Republic of Nigeria.",
+                "keywords": [
+                    "Nigeria",
+                    "Indivisible",
+                    "Indissoluble",
+                    "Sovereign State",
+                    "Federal Republic of Nigeria"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [],
+                "international_comparisons": []
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "I",
+                "chapter_title": "General Provisions",
+                "section_number": "2",
+                "section_title": "Nigeria as a Sovereign State and Federation",
+                "subsection_number": "(2)"
+            },
+            "content": {
+                "legal_text": "Nigeria shall be a Federation consisting of States and a Federal Capital Territory.",
+                "plain_english": "Nigeria is structured as a federation, comprising various States and a Federal Capital Territory.",
+                "keywords": [
+                    "Federation",
+                    "States",
+                    "Federal Capital Territory",
+                    "Nigeria's Structure"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [],
+                "international_comparisons": []
+            }
+        },
+        {
+            "type": "section",
+            "hierarchy": {
+                "chapter": "I",
+                "chapter_title": "General Provisions",
+                "section_number": "3",
+                "section_title": "States of the Federation and the Federal Capital Territory",
+                "subsection_number": null
+            },
+            "content": {
+                "legal_text": "3. (1) There shall be 36 states in Nigeria, that is to say, Abia, Adamawa, Akwa Ibom, Anambra, Bauchi, Bayelsa, Benue, Borno, Cross River, Delta, Ebonyi, Edo, Ekiti, Enugu, Gombe, Imo, Jigawa, Kaduna, Kano, Katsina, Kebbi, Kogi, Kwara, Lagos, Nasarawa, Niger, Ogun, Ondo, Osun, Oyo, Plateau, Rivers, Sokoto, Taraba, Yobe and Zamfara. (2) Each state of Nigeria, named in the first column of Part I of the First Schedule to this Constitution, shall consist of the area shown opposite thereto in the second column of that Schedule. (3) The headquarters of the Governor of each State shall be known as the Capital City of that State as shown in the third column of the said Part I of the First Schedule opposite the State named in the first column thereof. (4) The Federal Capital Territory, Abuja, shall be as defined in Part II of the First Scheduled to this Constitution. (5) The provisions of this Constitution in Part I of Chapter VIII hereof shall in relation to the Federal Capital Territory, Abuja, have effect in the manner set out thereunder. (6) There shall be 768 Local Government Areas in Nigeria as shown in the second column of Part I of the First Schedule to this Constitution and six area councils as shown in Part II of that Schedule.",
+                "plain_english": "Nigeria is divided into 36 specific states, which are listed. The exact boundaries and capital cities for these states, as well as the definition of the Federal Capital Territory (Abuja), are detailed in the First Schedule of this Constitution. Special rules from Chapter VIII apply to Abuja. Additionally, there are 768 Local Government Areas and six area councils, also detailed in the First Schedule.",
+                "keywords": [
+                    "States",
+                    "Federal Capital Territory",
+                    "Abuja",
+                    "Local Government Areas",
+                    "Area Councils",
+                    "First Schedule",
+                    "State Capitals",
+                    "Administrative Divisions"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [
+                    {
+                        "case_title": "Attorney General of Lagos State v. Attorney General of the Federation",
+                        "citation": "(2004) 18 NWLR (Pt. 904) 1",
+                        "relevance_summary": "This case involved a dispute over the creation of new local government areas by a state, touching on the constitutional provisions for administrative divisions.",
+                        "url": null
+                    }
+                ],
+                "international_comparisons": [
+                    {
+                        "country": "United States",
+                        "constitution_provision": "Article IV, Section 3",
+                        "similarity_note": "The U.S. Constitution provides for the admission of new states and the governance of federal territories, similar to how Nigeria defines its states and FCT.",
+                        "related_link": "https://constitution.congress.gov/constitution/article-4/"
+                    },
+                    {
+                        "country": "India",
+                        "constitution_provision": "First Schedule (Names of States and Union Territories)",
+                        "similarity_note": "The Indian Constitution also includes schedules that list its constituent states and union territories, along with their boundaries.",
+                        "related_link": "https://legislative.gov.in/constitution-of-india/first-schedule"
+                    },
+                    {
+                        "country": "Germany",
+                        "constitution_provision": "Article 29 (Reorganisation of the federal territory)",
+                        "similarity_note": "The German Basic Law outlines provisions for the territorial reorganization of its L\u00e4nder (states), reflecting a similar concern for defining constituent units.",
+                        "related_link": "https://www.gesetze-im-internet.de/gg/art_29.html"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "I",
+                "chapter_title": "General Provisions",
+                "section_number": "3",
+                "section_title": "States of the Federation and the Federal Capital Territory",
+                "subsection_number": "(1)"
+            },
+            "content": {
+                "legal_text": "There shall be 36 states in Nigeria, that is to say, Abia, Adamawa, Akwa Ibom, Anambra, Bauchi, Bayelsa, Benue, Borno, Cross River, Delta, Ebonyi, Edo, Ekiti, Enugu, Gombe, Imo, Jigawa, Kaduna, Kano, Katsina, Kebbi, Kogi, Kwara, Lagos, Nasarawa, Niger, Ogun, Ondo, Osun, Oyo, Plateau, Rivers, Sokoto, Taraba, Yobe and Zamfara.",
+                "plain_english": "Nigeria is composed of 36 states, and their names are listed here.",
+                "keywords": [
+                    "36 States",
+                    "Nigeria",
+                    "State Names",
+                    "Administrative Divisions"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [],
+                "international_comparisons": []
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "I",
+                "chapter_title": "General Provisions",
+                "section_number": "3",
+                "section_title": "States of the Federation and the Federal Capital Territory",
+                "subsection_number": "(2)"
+            },
+            "content": {
+                "legal_text": "Each state of Nigeria, named in the first column of Part I of the First Schedule to this Constitution, shall consist of the area shown opposite thereto in the second column of that Schedule.",
+                "plain_english": "The specific geographical area for each state listed is defined in the First Schedule of this Constitution.",
+                "keywords": [
+                    "State Areas",
+                    "First Schedule",
+                    "State Boundaries",
+                    "Geographical Definition"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [],
+                "international_comparisons": []
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "I",
+                "chapter_title": "General Provisions",
+                "section_number": "3",
+                "section_title": "States of the Federation and the Federal Capital Territory",
+                "subsection_number": "(3)"
+            },
+            "content": {
+                "legal_text": "The headquarters of the Governor of each State shall be known as the Capital City of that State as shown in the third column of the said Part I of the First Schedule opposite the State named in the first column thereof.",
+                "plain_english": "The capital city for each state, where the Governor's office is located, is specified in the First Schedule of this Constitution.",
+                "keywords": [
+                    "State Capital",
+                    "Governor's Headquarters",
+                    "First Schedule",
+                    "Capital City"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [],
+                "international_comparisons": []
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "I",
+                "chapter_title": "General Provisions",
+                "section_number": "3",
+                "section_title": "States of the Federation and the Federal Capital Territory",
+                "subsection_number": "(4)"
+            },
+            "content": {
+                "legal_text": "The Federal Capital Territory, Abuja, shall be as defined in Part II of the First Scheduled to this Constitution.",
+                "plain_english": "The boundaries and definition of the Federal Capital Territory, Abuja, are detailed in Part II of the First Schedule of this Constitution.",
+                "keywords": [
+                    "Federal Capital Territory",
+                    "Abuja",
+                    "First Schedule Part II",
+                    "FCT Definition"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [],
+                "international_comparisons": []
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "I",
+                "chapter_title": "General Provisions",
+                "section_number": "3",
+                "section_title": "States of the Federation and the Federal Capital Territory",
+                "subsection_number": "(5)"
+            },
+            "content": {
+                "legal_text": "The provisions of this Constitution in Part I of Chapter VIII hereof shall in relation to the Federal Capital Territory, Abuja, have effect in the manner set out thereunder.",
+                "plain_english": "Specific rules from Part I of Chapter VIII of this Constitution apply to the Federal Capital Territory, Abuja, as explained in that chapter.",
+                "keywords": [
+                    "Federal Capital Territory",
+                    "Abuja",
+                    "Chapter VIII",
+                    "Special Provisions"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [],
+                "international_comparisons": []
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "I",
+                "chapter_title": "General Provisions",
+                "section_number": "3",
+                "section_title": "States of the Federation and the Federal Capital Territory",
+                "subsection_number": "(6)"
+            },
+            "content": {
+                "legal_text": "There shall be 768 Local Government Areas in Nigeria as shown in the second column of Part I of the First Schedule to this Constitution and six area councils as shown in Part II of that Schedule.",
+                "plain_english": "Nigeria has 768 Local Government Areas and six area councils, all detailed in the First Schedule of this Constitution.",
+                "keywords": [
+                    "Local Government Areas",
+                    "Area Councils",
+                    "First Schedule",
+                    "Local Administration"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [],
+                "international_comparisons": []
+            }
+        },
+        {
+            "type": "section",
+            "hierarchy": {
+                "chapter": "I",
+                "chapter_title": "General Provisions",
+                "section_number": null,
+                "section_title": "Part II: Powers of the Federal Republic of Nigeria",
+                "subsection_number": null
+            },
+            "content": {
+                "legal_text": "Part II: Powers of the Federal Republic of Nigeria",
+                "plain_english": "This part details the distribution and exercise of legislative, executive, and judicial powers within the Nigerian federal system.",
+                "keywords": [
+                    "Powers",
+                    "Federal Republic",
+                    "Legislative",
+                    "Executive",
+                    "Judicial",
+                    "Separation of Powers"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [],
+                "international_comparisons": []
+            }
+        },
+        {
+            "type": "section",
+            "hierarchy": {
+                "chapter": "I",
+                "chapter_title": "General Provisions",
+                "section_number": "4",
+                "section_title": "Legislative Powers",
+                "subsection_number": null
+            },
+            "content": {
+                "legal_text": "4. (1) The legislative powers of the Federal Republic of Nigeria shall be vested in a National Assembly for the Federation, which shall consist of a Senate and a House of Representatives. (2) The National Assembly shall have power to make laws for the peace, order and good government of the Federation or any part thereof with respect to any matter included in the Exclusive Legislative List set out in Part I of the Second Schedule to this Constitution. (3) The power of the National Assembly to make laws for the peace, order and good government of the Federation with respect to any matter included in the Exclusive Legislative List shall, save as otherwise provided in this Constitution, be to the exclusion of the Houses of Assembly of States. (4) In addition and without prejudice to the powers conferred by subsection (2) of this section, the National Assembly shall have power to make laws with respect to the following matters, that is to say:- (a) any matter in the Concurrent Legislative List set out in the first column of Part II of the Second Schedule to this Constitution to the extent prescribed in the second column opposite thereto; and (b) any other matter with respect to which it is empowered to make laws in accordance with the provisions of this Constitution. (5) If any Law enacted by the House of Assembly of a State is inconsistent with any law validly made by the National Assembly, the law made by the National Assembly shall prevail, and that other Law shall, to the extent of the inconsistency, be void. (6) The legislative powers of a State of the Federation shall be vested in the House of Assembly of the State. (7) The House of Assembly of a State shall have power to make laws for the peace, order and good government of the State or any part thereof with respect to the following matters, that is to say:- (a) any matter not included in the Exclusive Legislative List set out in Part I of the Second Schedule to this Constitution. (b) any matter included in the Concurrent Legislative List set out in the first column of Part II of the Second Schedule to this Constitution to the extent prescribed in the second column opposite thereto; and (c) any other matter with respect to which it is empowered to make laws in accordance with the provisions of this Constitution. (8) Save as otherwise provided by this Constitution, the exercise of legislative powers by the National Assembly or by a House of Assembly shall be subject to the jurisdiction of courts of law and of judicial tribunals established by law, and accordingly, the National Assembly or a House of Assembly shall not enact any law, that ousts or purports to oust the jurisdiction of a court of law or of a judicial tribunal established by law. (9) Notwithstanding the foregoing provisions of this section, the National Assembly or a House of Assembly shall not, in relation to any criminal offence whatsoever, have power to make any law which shall have retrospective effect.",
+                "plain_english": "This section defines who makes laws in Nigeria. The federal legislative power belongs to the National Assembly (made up of the Senate and House of Representatives). It can make laws on matters on the 'Exclusive Legislative List' (federal-only issues) and also on 'Concurrent Legislative List' matters (shared with states) as specified. Federal laws override state laws if there's a conflict. State legislative power belongs to the State House of Assembly, which can make laws on matters not on the Exclusive List, on Concurrent List matters (as specified), and other constitutionally permitted areas. All legislative powers are subject to court review, and neither the National Assembly nor State Houses can pass laws that remove court jurisdiction or create retroactive criminal laws.",
+                "keywords": [
+                    "Legislative Powers",
+                    "National Assembly",
+                    "Senate",
+                    "House of Representatives",
+                    "Exclusive Legislative List",
+                    "Concurrent Legislative List",
+                    "State House of Assembly",
+                    "Federalism",
+                    "Supremacy of Federal Law",
+                    "Judicial Review",
+                    "Retrospective Laws",
+                    "Jurisdiction of Courts"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [
+                    {
+                        "case_title": "Attorney General of Ogun State v. Attorney General of the Federation",
+                        "citation": "(1982) 1-2 SC 13",
+                        "relevance_summary": "This Nigerian Supreme Court case dealt with the legislative competence of the National Assembly and State Houses of Assembly, particularly concerning matters on the Concurrent Legislative List.",
+                        "url": null
+                    },
+                    {
+                        "case_title": "McCulloch v. Maryland",
+                        "citation": "17 U.S. 316 (1819)",
+                        "relevance_summary": "A foundational U.S. Supreme Court case affirming the implied powers of Congress and the supremacy of federal law over state law.",
+                        "url": "https://www.oyez.org/cases/1789-1850/17us316"
+                    },
+                    {
+                        "case_title": "Kesavananda Bharati v. State of Kerala",
+                        "citation": "AIR 1973 SC 1461",
+                        "relevance_summary": "This Indian Supreme Court case established the 'Basic Structure Doctrine,' limiting the power of Parliament to amend the Constitution, thus defining the ultimate limits of legislative power.",
+                        "url": null
+                    }
+                ],
+                "international_comparisons": [
+                    {
+                        "country": "United States",
+                        "constitution_provision": "Article I (Legislative Branch), Tenth Amendment (Reserved Powers)",
+                        "similarity_note": "The U.S. Constitution vests legislative power in Congress and reserves powers not delegated to the federal government to the states, similar to Nigeria's Exclusive and Concurrent Lists.",
+                        "related_link": "https://constitution.congress.gov/constitution/article-1/"
+                    },
+                    {
+                        "country": "India",
+                        "constitution_provision": "Articles 245-255 (Distribution of Legislative Powers), Seventh Schedule (Union List, State List, Concurrent List)",
+                        "similarity_note": "India's Constitution also uses a system of legislative lists (Union, State, Concurrent) to delineate federal and state law-making powers, with federal law prevailing in case of conflict.",
+                        "related_link": "https://legislative.gov.in/constitution-of-india/part-xi"
+                    },
+                    {
+                        "country": "Germany",
+                        "constitution_provision": "Articles 70-75 (Legislative Powers of the Federation and the L\u00e4nder)",
+                        "similarity_note": "The German Basic Law distinguishes between exclusive and concurrent legislative powers, with federal law taking precedence over state law in areas of concurrent jurisdiction.",
+                        "related_link": "https://www.gesetze-im-internet.de/gg/art_70.html"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "I",
+                "chapter_title": "General Provisions",
+                "section_number": "4",
+                "section_title": "Legislative Powers",
+                "subsection_number": "(1)"
+            },
+            "content": {
+                "legal_text": "The legislative powers of the Federal Republic of Nigeria shall be vested in a National Assembly for the Federation, which shall consist of a Senate and a House of Representatives.",
+                "plain_english": "The power to make laws for Nigeria is given to the National Assembly, which is composed of two chambers: the Senate and the House of Representatives.",
+                "keywords": [
+                    "Legislative Powers",
+                    "National Assembly",
+                    "Senate",
+                    "House of Representatives",
+                    "Federal Republic of Nigeria"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [],
+                "international_comparisons": []
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "I",
+                "chapter_title": "General Provisions",
+                "section_number": "4",
+                "section_title": "Legislative Powers",
+                "subsection_number": "(2)"
+            },
+            "content": {
+                "legal_text": "The National Assembly shall have power to make laws for the peace, order and good government of the Federation or any part thereof with respect to any matter included in the Exclusive Legislative List set out in Part I of the Second Schedule to this Constitution.",
+                "plain_english": "The National Assembly has the authority to create laws for the entire country or any part of it, specifically on subjects listed in the 'Exclusive Legislative List' found in the Second Schedule of this Constitution.",
+                "keywords": [
+                    "National Assembly",
+                    "Law Making Power",
+                    "Exclusive Legislative List",
+                    "Second Schedule",
+                    "Peace, Order, Good Government"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [],
+                "international_comparisons": []
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "I",
+                "chapter_title": "General Provisions",
+                "section_number": "4",
+                "section_title": "Legislative Powers",
+                "subsection_number": "(3)"
+            },
+            "content": {
+                "legal_text": "The power of the National Assembly to make laws for the peace, order and good government of the Federation with respect to any matter included in the Exclusive Legislative List shall, save as otherwise provided in this Constitution, be to the exclusion of the Houses of Assembly of States.",
+                "plain_english": "For matters on the Exclusive Legislative List, only the National Assembly can make laws; state assemblies are prohibited from legislating on these topics, unless the Constitution states otherwise.",
+                "keywords": [
+                    "Exclusive Legislative List",
+                    "National Assembly",
+                    "State Houses of Assembly",
+                    "Exclusive Power",
+                    "Federal Supremacy"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [],
+                "international_comparisons": []
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "I",
+                "chapter_title": "General Provisions",
+                "section_number": "4",
+                "section_title": "Legislative Powers",
+                "subsection_number": "(4)"
+            },
+            "content": {
+                "legal_text": "In addition and without prejudice to the powers conferred by subsection (2) of this section, the National Assembly shall have power to make laws with respect to the following matters, that is to say:- (a) any matter in the Concurrent Legislative List set out in the first column of Part II of the Second Schedule to this Constitution to the extent prescribed in the second column opposite thereto; and (b) any other matter with respect to which it is empowered to make laws in accordance with the provisions of this Constitution.",
+                "plain_english": "Beyond the Exclusive List, the National Assembly can also make laws on subjects found in the 'Concurrent Legislative List' (as specified in the Second Schedule) and any other areas where the Constitution grants it law-making authority.",
+                "keywords": [
+                    "National Assembly",
+                    "Concurrent Legislative List",
+                    "Second Schedule",
+                    "Additional Powers",
+                    "Constitutional Powers"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [],
+                "international_comparisons": []
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "I",
+                "chapter_title": "General Provisions",
+                "section_number": "4",
+                "section_title": "Legislative Powers",
+                "subsection_number": "(5)"
+            },
+            "content": {
+                "legal_text": "If any Law enacted by the House of Assembly of a State is inconsistent with any law validly made by the National Assembly, the law made by the National Assembly shall prevail, and that other Law shall, to the extent of the inconsistency, be void.",
+                "plain_english": "If a state law conflicts with a valid federal law made by the National Assembly, the federal law takes precedence, and the conflicting part of the state law becomes invalid.",
+                "keywords": [
+                    "Inconsistency",
+                    "Federal Law Supremacy",
+                    "State Law",
+                    "National Assembly",
+                    "House of Assembly",
+                    "Void Law"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [],
+                "international_comparisons": []
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "I",
+                "chapter_title": "General Provisions",
+                "section_number": "4",
+                "section_title": "Legislative Powers",
+                "subsection_number": "(6)"
+            },
+            "content": {
+                "legal_text": "The legislative powers of a State of the Federation shall be vested in the House of Assembly of the State.",
+                "plain_english": "The power to make laws for a specific state belongs to that state's House of Assembly.",
+                "keywords": [
+                    "State Legislative Powers",
+                    "House of Assembly",
+                    "State Government"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [],
+                "international_comparisons": []
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "I",
+                "chapter_title": "General Provisions",
+                "section_number": "4",
+                "section_title": "Legislative Powers",
+                "subsection_number": "(7)"
+            },
+            "content": {
+                "legal_text": "The House of Assembly of a State shall have power to make laws for the peace, order and good government of the State or any part thereof with respect to the following matters, that is to say:- (a) any matter not included in the Exclusive Legislative List set out in Part I of the Second Schedule to this Constitution. (b) any matter included in the Concurrent Legislative List set out in the first column of Part II of the Second Schedule to this Constitution to the extent prescribed in the second column opposite thereto; and (c) any other matter with respect to which it is empowered to make laws in accordance with the provisions of this Constitution.",
+                "plain_english": "A State House of Assembly can make laws for its state on any matter not on the Exclusive Legislative List, on matters on the Concurrent Legislative List (as specified), and on any other issues where the Constitution grants it law-making authority.",
+                "keywords": [
+                    "State House of Assembly",
+                    "Law Making Power",
+                    "Exclusive Legislative List",
+                    "Concurrent Legislative List",
+                    "State Powers"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [],
+                "international_comparisons": []
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "I",
+                "chapter_title": "General Provisions",
+                "section_number": "4",
+                "section_title": "Legislative Powers",
+                "subsection_number": "(8)"
+            },
+            "content": {
+                "legal_text": "Save as otherwise provided by this Constitution, the exercise of legislative powers by the National Assembly or by a House of Assembly shall be subject to the jurisdiction of courts of law and of judicial tribunals established by law, and accordingly, the National Assembly or a House of Assembly shall not enact any law, that ousts or purports to oust the jurisdiction of a court of law or of a judicial tribunal established by law.",
+                "plain_english": "Unless the Constitution says otherwise, all laws made by the National Assembly or a State House of Assembly can be reviewed by courts. Therefore, neither legislative body can pass a law that tries to prevent courts from hearing cases or exercising their legal authority.",
+                "keywords": [
+                    "Judicial Review",
+                    "Legislative Powers",
+                    "National Assembly",
+                    "House of Assembly",
+                    "Jurisdiction of Courts",
+                    "Ousting Jurisdiction",
+                    "Rule of Law"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [
+                    {
+                        "case_title": "Lakanmi v. Attorney General (Western State)",
+                        "citation": "(1971) 1 UILR 201",
+                        "relevance_summary": "A significant Nigerian case that challenged the validity of an ouster clause, affirming the judiciary's role in constitutional interpretation.",
+                        "url": null
+                    }
+                ],
+                "international_comparisons": []
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "I",
+                "chapter_title": "General Provisions",
+                "section_number": "4",
+                "section_title": "Legislative Powers",
+                "subsection_number": "(9)"
+            },
+            "content": {
+                "legal_text": "Notwithstanding the foregoing provisions of this section, the National Assembly or a House of Assembly shall not, in relation to any criminal offence whatsoever, have power to make any law which shall have retrospective effect.",
+                "plain_english": "Despite other provisions in this section, neither the National Assembly nor a State House of Assembly can create criminal laws that apply to actions that occurred before the law was passed (i.e., retroactive criminal laws).",
+                "keywords": [
+                    "Retrospective Laws",
+                    "Ex Post Facto",
+                    "Criminal Offence",
+                    "National Assembly",
+                    "House of Assembly",
+                    "Legislative Limits"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [
+                    {
+                        "case_title": "Calder v. Bull",
+                        "citation": "3 U.S. 386 (1798)",
+                        "relevance_summary": "A foundational U.S. Supreme Court case defining ex post facto laws and their prohibition.",
+                        "url": "https://www.oyez.org/cases/1789-1850/3us386"
+                    }
+                ],
+                "international_comparisons": [
+                    {
+                        "country": "United States",
+                        "constitution_provision": "Article I, Section 9, Clause 3 (Ex Post Facto Clause)",
+                        "similarity_note": "The U.S. Constitution explicitly prohibits both federal and state governments from passing ex post facto laws, particularly in criminal matters.",
+                        "related_link": "https://constitution.congress.gov/constitution/article-1/#article-1-section-9"
+                    },
+                    {
+                        "country": "India",
+                        "constitution_provision": "Article 20(1) (Protection in respect of conviction for offences)",
+                        "similarity_note": "The Indian Constitution also prohibits retrospective criminal legislation, ensuring that no person shall be convicted of any offence except for violation of a law in force at the time of the commission of the act charged as an offence.",
+                        "related_link": "https://legislative.gov.in/constitution-of-india/article-20"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "hierarchy": {
+                "chapter": "I",
+                "chapter_title": "General Provisions",
+                "section_number": "5",
+                "section_title": "Executive Powers",
+                "subsection_number": null
+            },
+            "content": {
+                "legal_text": "5. (1) Subject to the provisions of this Constitution, the executive powers of the Federation: (a) shall be vested in the President and may subject as aforesaid and to the provisions of any law made by the National Assembly, be exercised by him either directly or through the Vice-President and Ministers of the Government of the Federation or officers in the public service of the Federation; and (b) shall extend to the execution and maintenance of this Constitution, all laws made by the National Assembly and to all matters with respect to which the National Assembly has, for the time being, power to make laws. (2) Subject to the provisions of this Constitution, the executive powers of a State: (a) shall be vested in the Governor of that State and may, subject as aforesaid and to the provisions of any Law made by a House of Assembly, be exercised by him either directly or through the Deputy Governor and Commissioners of the Government of that State or officers in the public service of the State; and (b) shall extend to the execution and maintenance of this Constitution, all laws made by the House of Assembly of the State and to all matters with respect to which the House of Assembly has for the time being power to make laws. (3) The executive powers vested in a State under subsection (2) of this section shall be so exercised as not to:- (a) impede or prejudice the exercise of the executive powers of the Federation; (b) endanger any asset or investment of the Government of the Federation in that State; or (c) endanger the continuance of a Federal Government in Nigeria. (4) Notwithstanding the foregoing provisions of this section:- (a) the President shall not declare a state of war between the Federation and another country except with the sanction of a resolution of both Houses of the National Assembly, sitting in a joint session; and (b) except with the prior approval of the Senate, no member of the armed forces of the Federation shall be deployed on combat duty outside Nigeria. (5) Notwithstanding the provisions of subsection (4) of this section, the President, in consultation with the National Defence Council, may deploy members of the armed forces of the Federation on a limited combat duty outside Nigeria if he is satisfied that the national security is under imminent threat or danger: Provided that the President shall, within seven days of actual combat engagement, seek the consent of the Senate and the Senate shall thereafter give or refuse the said consent within 14 days.",
+                "plain_english": "This section outlines the executive powers at both federal and state levels. The President holds federal executive power, which can be delegated, and covers enforcing the Constitution and federal laws. State executive power is held by the Governor, also delegable, and covers enforcing the Constitution and state laws. State executive actions must not hinder federal executive power, endanger federal assets, or threaten the federal government's existence. The President needs National Assembly approval to declare war or deploy troops abroad for combat, though limited deployment for national security threats is allowed with subsequent Senate consent within specific timeframes.",
+                "keywords": [
+                    "Executive Powers",
+                    "President",
+                    "Governor",
+                    "Federal Executive",
+                    "State Executive",
+                    "Delegation of Power",
+                    "Enforcement of Laws",
+                    "War Declaration",
+                    "Deployment of Armed Forces",
+                    "National Assembly",
+                    "Senate",
+                    "National Defence Council",
+                    "Checks and Balances"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [
+                    {
+                        "case_title": "Fawehinmi v. Abacha",
+                        "citation": "(2000) 6 NWLR (Pt. 660) 228",
+                        "relevance_summary": "This Nigerian case, though dealing with military rule, touches on the limits of executive power and the rule of law, relevant to the constitutional vesting of executive authority.",
+                        "url": null
+                    },
+                    {
+                        "case_title": "Youngstown Sheet & Tube Co. v. Sawyer",
+                        "citation": "343 U.S. 579 (1952)",
+                        "relevance_summary": "A U.S. Supreme Court case limiting the President's power to seize private property, illustrating checks on executive authority.",
+                        "url": "https://www.oyez.org/cases/1951/1951-536"
+                    },
+                    {
+                        "case_title": "Ram Jawaya Kapur v. State of Punjab",
+                        "citation": "AIR 1955 SC 549",
+                        "relevance_summary": "This Indian Supreme Court case defined the scope of executive power, stating it extends to all matters on which the legislature can make laws, even without specific legislation.",
+                        "url": null
+                    }
+                ],
+                "international_comparisons": [
+                    {
+                        "country": "United States",
+                        "constitution_provision": "Article II (Executive Branch), War Powers Resolution of 1973",
+                        "similarity_note": "The U.S. Constitution vests executive power in the President, and the War Powers Resolution imposes limits on the President's ability to commit armed forces to combat without congressional approval.",
+                        "related_link": "https://constitution.congress.gov/constitution/article-2/"
+                    },
+                    {
+                        "country": "India",
+                        "constitution_provision": "Articles 53, 154 (Executive Power of the Union and States)",
+                        "similarity_note": "The Indian Constitution vests executive power in the President (Union) and Governor (States), exercisable directly or through subordinate officers, similar to Nigeria.",
+                        "related_link": "https://legislative.gov.in/constitution-of-india/part-v"
+                    },
+                    {
+                        "country": "United Kingdom",
+                        "constitution_provision": "Royal Prerogative, Prime Minister's powers, War Powers",
+                        "similarity_note": "While the UK has an uncodified constitution, executive powers are exercised by the Prime Minister and Cabinet, often under the 'Royal Prerogative,' with increasing parliamentary scrutiny over decisions like declaring war or deploying troops.",
+                        "related_link": "https://www.parliament.uk/about/how/sovereignty/royal-prerogative/"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "I",
+                "chapter_title": "General Provisions",
+                "section_number": "5",
+                "section_title": "Executive Powers",
+                "subsection_number": "(1)"
+            },
+            "content": {
+                "legal_text": "Subject to the provisions of this Constitution, the executive powers of the Federation: (a) shall be vested in the President and may subject as aforesaid and to the provisions of any law made by the National Assembly, be exercised by him either directly or through the Vice-President and Ministers of the Government of the Federation or officers in the public service of the Federation; and (b) shall extend to the execution and maintenance of this Constitution, all laws made by the National Assembly and to all matters with respect to which the National Assembly has, for the time being, power to make laws.",
+                "plain_english": "The President holds the federal executive power, which can be exercised directly or through the Vice-President, Ministers, or other public officials. This power includes enforcing the Constitution and all laws made by the National Assembly, as well as matters where the National Assembly can make laws.",
+                "keywords": [
+                    "Federal Executive Power",
+                    "President",
+                    "Vice-President",
+                    "Ministers",
+                    "Public Service",
+                    "Execution of Laws",
+                    "Maintenance of Constitution"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [],
+                "international_comparisons": []
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "I",
+                "chapter_title": "General Provisions",
+                "section_number": "5",
+                "section_title": "Executive Powers",
+                "subsection_number": "(2)"
+            },
+            "content": {
+                "legal_text": "Subject to the provisions of this Constitution, the executive powers of a State: (a) shall be vested in the Governor of that State and may, subject as aforesaid and to the provisions of any Law made by a House of Assembly, be exercised by him either directly or through the Deputy Governor and Commissioners of the Government of that State or officers in the public service of the State; and (b) shall extend to the execution and maintenance of this Constitution, all laws made by the House of Assembly of the State and to all matters with respect to which the House of Assembly has for the time being power to make laws.",
+                "plain_english": "The Governor holds the executive power for a state, which can be exercised directly or through the Deputy Governor, Commissioners, or other state public officials. This power includes enforcing the Constitution and all laws made by the State House of Assembly, as well as matters where the State House of Assembly can make laws.",
+                "keywords": [
+                    "State Executive Power",
+                    "Governor",
+                    "Deputy Governor",
+                    "Commissioners",
+                    "State Public Service",
+                    "Execution of State Laws"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [],
+                "international_comparisons": []
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "I",
+                "chapter_title": "General Provisions",
+                "section_number": "5",
+                "section_title": "Executive Powers",
+                "subsection_number": "(3)"
+            },
+            "content": {
+                "legal_text": "The executive powers vested in a State under subsection (2) of this section shall be so exercised as not to:- (a) impede or prejudice the exercise of the executive powers of the Federation; (b) endanger any asset or investment of the Government of the Federation in that State; or (c) endanger the continuance of a Federal Government in Nigeria.",
+                "plain_english": "State executive powers must be used in a way that does not interfere with federal executive powers, threaten federal assets or investments in the state, or jeopardize the existence of the federal government in Nigeria.",
+                "keywords": [
+                    "State Executive Limits",
+                    "Federal Supremacy",
+                    "Interference",
+                    "Federal Assets",
+                    "Continuance of Federal Government"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [],
+                "international_comparisons": []
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "I",
+                "chapter_title": "General Provisions",
+                "section_number": "5",
+                "section_title": "Executive Powers",
+                "subsection_number": "(4)"
+            },
+            "content": {
+                "legal_text": "Notwithstanding the foregoing provisions of this section:- (a) the President shall not declare a state of war between the Federation and another country except with the sanction of a resolution of both Houses of the National Assembly, sitting in a joint session; and (b) except with the prior approval of the Senate, no member of the armed forces of the Federation shall be deployed on combat duty outside Nigeria.",
+                "plain_english": "Despite other executive powers, the President cannot declare war without approval from both the Senate and House of Representatives meeting together. Also, no armed forces member can be sent on combat duty outside Nigeria without the Senate's prior approval.",
+                "keywords": [
+                    "War Declaration",
+                    "Presidential Powers",
+                    "National Assembly Approval",
+                    "Senate Approval",
+                    "Armed Forces Deployment",
+                    "Combat Duty",
+                    "Checks and Balances"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [],
+                "international_comparisons": []
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "I",
+                "chapter_title": "General Provisions",
+                "section_number": "5",
+                "section_title": "Executive Powers",
+                "subsection_number": "(5)"
+            },
+            "content": {
+                "legal_text": "Notwithstanding the provisions of subsection (4) of this section, the President, in consultation with the National Defence Council, may deploy members of the armed forces of the Federation on a limited combat duty outside Nigeria if he is satisfied that the national security is under imminent threat or danger: Provided that the President shall, within seven days of actual combat engagement, seek the consent of the Senate and the Senate shall thereafter give or refuse the said consent within 14 days.",
+                "plain_english": "Even with the restrictions in subsection (4), the President can, after consulting the National Defence Council, send armed forces on limited combat missions outside Nigeria if national security is immediately threatened. However, the President must seek Senate approval within seven days of combat starting, and the Senate must respond within 14 days.",
+                "keywords": [
+                    "Emergency Deployment",
+                    "National Security",
+                    "Imminent Threat",
+                    "National Defence Council",
+                    "Senate Consent",
+                    "Time Limits",
+                    "Presidential Prerogative"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [],
+                "international_comparisons": []
+            }
+        },
+        {
+            "type": "section",
+            "hierarchy": {
+                "chapter": "I",
+                "chapter_title": "General Provisions",
+                "section_number": "6",
+                "section_title": "Judicial Powers",
+                "subsection_number": null
+            },
+            "content": {
+                "legal_text": "6. (1) The judicial powers of the Federation shall be vested in the courts to which this section relates, being courts established for the Federation. (2) The judicial powers of a State shall be vested in the courts to which this section relates, being courts established, subject as provided by this Constitution, for a State. (3) The courts to which this section relates, established by this Constitution for the Federation and for the States, specified in subsection (5) (a) to (1) of this section, shall be the only superior courts of record in Nigeria; and save as otherwise prescribed by the National Assembly or by the House of Assembly of a State, each court shall have all the powers of a superior court of record. (4) Nothing in the foregoing provisions of this section shall be construed as precluding:- (a) the National Assembly or any House of Assembly from establishing courts, other than those to which this section relates, with subordinate jurisdiction to that of a High Court; (b) the National Assembly or any House of Assembly, which does not require it, from abolishing any court which it has power to establish or which it has brought into being. (5) This section relates to:- (a) the Supreme Court of Nigeria; (b) the Court of Appeal; (c) the Federal High Court; (d) the High Court of the Federal Capital Territory, Abuja; (e) a High Court of a State (f) the Sharia Court of Appeal of the Federal Capital Territory, Abuja; (g) a Sharia Court of Appeal of a State; (h) the Customary Court of Appeal of the Federal Capital Territory, Abuja; (i) a Customary Court of Appeal of a State; (j) such other courts as may be authorised by law to exercise jurisdiction on matters with respect to which the National Assembly may make laws; and (k) such other court as may be authorised by law to exercise jurisdiction at first instance or on appeal on matters with respect to which a House of Assembly may make laws. (6) The judicial powers vested in accordance with the foregoing provisions of this section - (a) shall extend, notwithstanding anything to the contrary in this constitution, to all inherent powers and sanctions of a court of law (b) shall extend, to all matters between persons, or between government or authority and to any persons in Nigeria, and to all actions and proceedings relating thereto, for the determination of any question as to the civil rights and obligations of that person; (c) shall not except as otherwise provided by this Constitution, extend to any issue or question as to whether any act of omission by any authority or person or as to whether any law or any judicial decision is in conformity with the Fundamental Objectives and Directive Principles of State Policy set out in",
+                "plain_english": "This section defines the judicial powers in Nigeria. Federal judicial power is held by federal courts, and state judicial power by state courts. The Constitution lists specific superior courts (Supreme Court, Court of Appeal, Federal High Court, State High Courts, Sharia Courts of Appeal, Customary Courts of Appeal for FCT and States, and other courts established by law). These are the only superior courts of record. However, the National Assembly or State Assemblies can create lower courts or abolish courts they established. Judicial powers include all inherent court powers and cover disputes between individuals, or between government and individuals, concerning civil rights and obligations. However, these powers generally do not extend to reviewing whether government actions or laws align with the 'Fundamental Objectives and Directive Principles of State Policy' unless specifically allowed by the Constitution. (Note: The provided text for subsection 6(6)(c) is incomplete.)",
+                "keywords": [
+                    "Judicial Powers",
+                    "Federal Courts",
+                    "State Courts",
+                    "Superior Courts of Record",
+                    "Supreme Court",
+                    "Court of Appeal",
+                    "Federal High Court",
+                    "High Court of a State",
+                    "Sharia Court of Appeal",
+                    "Customary Court of Appeal",
+                    "Jurisdiction",
+                    "Civil Rights",
+                    "Fundamental Objectives and Directive Principles of State Policy",
+                    "Inherent Powers of Court"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [
+                    {
+                        "case_title": "Minerva Mills Ltd. v. Union of India",
+                        "citation": "AIR 1980 SC 1789",
+                        "relevance_summary": "This Indian Supreme Court case reinforced the 'Basic Structure Doctrine' and discussed the relationship between Fundamental Rights and Directive Principles, relevant to the limits of judicial review concerning policy matters.",
+                        "url": null
+                    },
+                    {
+                        "case_title": "Baker v. Carr",
+                        "citation": "369 U.S. 186 (1962)",
+                        "relevance_summary": "A U.S. Supreme Court case that established the 'political question doctrine,' which limits judicial review over certain matters deemed political rather than legal, relevant to the limits on judicial power.",
+                        "url": "https://www.oyez.org/cases/1961/6"
+                    }
+                ],
+                "international_comparisons": [
+                    {
+                        "country": "United States",
+                        "constitution_provision": "Article III (Judicial Branch)",
+                        "similarity_note": "The U.S. Constitution vests judicial power in a Supreme Court and lower federal courts, defining their jurisdiction and establishing judicial independence.",
+                        "related_link": "https://constitution.congress.gov/constitution/article-3/"
+                    },
+                    {
+                        "country": "India",
+                        "constitution_provision": "Articles 124-147 (The Union Judiciary), Articles 214-237 (The High Courts in the States)",
+                        "similarity_note": "The Indian Constitution establishes a hierarchical judicial system with a Supreme Court, High Courts, and subordinate courts, defining their powers and jurisdiction.",
+                        "related_link": "https://legislative.gov.in/constitution-of-india/part-v"
+                    },
+                    {
+                        "country": "United Kingdom",
+                        "constitution_provision": "Constitutional Reform Act 2005, Supreme Court of the United Kingdom",
+                        "similarity_note": "The UK, while having an uncodified constitution, has established a Supreme Court and a clear judicial hierarchy, with principles of judicial independence and the rule of law.",
+                        "related_link": "https://www.supremecourt.uk/about/constitutional-reform-act-2005.html"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "I",
+                "chapter_title": "General Provisions",
+                "section_number": "6",
+                "section_title": "Judicial Powers",
+                "subsection_number": "(1)"
+            },
+            "content": {
+                "legal_text": "The judicial powers of the Federation shall be vested in the courts to which this section relates, being courts established for the Federation.",
+                "plain_english": "The power to interpret laws and administer justice at the federal level is given to specific federal courts mentioned in this section.",
+                "keywords": [
+                    "Judicial Powers",
+                    "Federal Courts",
+                    "Federation",
+                    "Courts Established"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [],
+                "international_comparisons": []
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "I",
+                "chapter_title": "General Provisions",
+                "section_number": "6",
+                "section_title": "Judicial Powers",
+                "subsection_number": "(2)"
+            },
+            "content": {
+                "legal_text": "The judicial powers of a State shall be vested in the courts to which this section relates, being courts established, subject as provided by this Constitution, for a State.",
+                "plain_english": "The power to interpret laws and administer justice at the state level is given to specific state courts mentioned in this section, established according to the Constitution.",
+                "keywords": [
+                    "Judicial Powers",
+                    "State Courts",
+                    "State",
+                    "Courts Established"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [],
+                "international_comparisons": []
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "I",
+                "chapter_title": "General Provisions",
+                "section_number": "6",
+                "section_title": "Judicial Powers",
+                "subsection_number": "(3)"
+            },
+            "content": {
+                "legal_text": "The courts to which this section relates, established by this Constitution for the Federation and for the States, specified in subsection (5) (a) to (1) of this section, shall be the only superior courts of record in Nigeria; and save as otherwise prescribed by the National Assembly or by the House of Assembly of a State, each court shall have all the powers of a superior court of record.",
+                "plain_english": "The courts listed in subsection (5) are the only superior courts of record in Nigeria, for both federal and state matters. Unless otherwise specified by the National Assembly or a State House of Assembly, these courts possess all the powers typically associated with a superior court of record.",
+                "keywords": [
+                    "Superior Courts of Record",
+                    "Federal Courts",
+                    "State Courts",
+                    "Judicial Hierarchy",
+                    "Powers of Court"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [],
+                "international_comparisons": []
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "I",
+                "chapter_title": "General Provisions",
+                "section_number": "6",
+                "section_title": "Judicial Powers",
+                "subsection_number": "(4)"
+            },
+            "content": {
+                "legal_text": "Nothing in the foregoing provisions of this section shall be construed as precluding:- (a) the National Assembly or any House of Assembly from establishing courts, other than those to which this section relates, with subordinate jurisdiction to that of a High Court; (b) the National Assembly or any House of Assembly, which does not require it, from abolishing any court which it has power to establish or which it has brought into being.",
+                "plain_english": "This section does not prevent the National Assembly or a State House of Assembly from creating lower courts (with less authority than a High Court) or from abolishing any court they have the power to establish or have already established.",
+                "keywords": [
+                    "Subordinate Courts",
+                    "Lower Courts",
+                    "Court Establishment",
+                    "Court Abolition",
+                    "National Assembly",
+                    "House of Assembly"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [],
+                "international_comparisons": []
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "I",
+                "chapter_title": "General Provisions",
+                "section_number": "6",
+                "section_title": "Judicial Powers",
+                "subsection_number": "(5)"
+            },
+            "content": {
+                "legal_text": "This section relates to:- (a) the Supreme Court of Nigeria; (b) the Court of Appeal; (c) the Federal High Court; (d) the High Court of the Federal Capital Territory, Abuja; (e) a High Court of a State (f) the Sharia Court of Appeal of the Federal Capital Territory, Abuja; (g) a Sharia Court of Appeal of a State; (h) the Customary Court of Appeal of the Federal Capital Territory, Abuja; (i) a Customary Court of Appeal of a State; (j) such other courts as may be authorised by law to exercise jurisdiction on matters with respect to which the National Assembly may make laws; and (k) such other court as may be authorised by law to exercise jurisdiction at first instance or on appeal on matters with respect to which a House of Assembly may make laws.",
+                "plain_english": "The courts referred to in this section include: the Supreme Court, Court of Appeal, Federal High Court, High Courts for the FCT and States, Sharia Courts of Appeal for the FCT and States, Customary Courts of Appeal for the FCT and States, and any other courts established by federal or state laws to handle specific matters.",
+                "keywords": [
+                    "Supreme Court",
+                    "Court of Appeal",
+                    "Federal High Court",
+                    "High Court",
+                    "Sharia Court of Appeal",
+                    "Customary Court of Appeal",
+                    "Judicial System",
+                    "Court Hierarchy"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [],
+                "international_comparisons": []
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "I",
+                "chapter_title": "General Provisions",
+                "section_number": "6",
+                "section_title": "Judicial Powers",
+                "subsection_number": "(6)"
+            },
+            "content": {
+                "legal_text": "The judicial powers vested in accordance with the foregoing provisions of this section - (a) shall extend, notwithstanding anything to the contrary in this constitution, to all inherent powers and sanctions of a court of law (b) shall extend, to all matters between persons, or between government or authority and to any persons in Nigeria, and to all actions and proceedings relating thereto, for the determination of any question as to the civil rights and obligations of that person; (c) shall not except as otherwise provided by this Constitution, extend to any issue or question as to whether any act of omission by any authority or person or as to whether any law or any judicial decision is in conformity with the Fundamental Objectives and Directive Principles of State Policy set out in",
+                "plain_english": "The judicial powers granted by this section include all natural powers and enforcement abilities of a court. They cover all disputes between individuals, or between the government and individuals, regarding their civil rights and duties. However, these powers generally do not allow courts to decide if a government action, law, or judicial decision aligns with the 'Fundamental Objectives and Directive Principles of State Policy,' unless the Constitution specifically permits it. (Note: The provided text for this subsection is incomplete.)",
+                "keywords": [
+                    "Inherent Powers",
+                    "Sanctions",
+                    "Civil Rights",
+                    "Obligations",
+                    "Government Disputes",
+                    "Fundamental Objectives",
+                    "Directive Principles",
+                    "Judicial Limits"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [],
+                "international_comparisons": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,2003 @@
+{
+    "nodes": [
+        {
+            "type": "chapter",
+            "hierarchy": {
+                "chapter": "III",
+                "chapter_title": "Citizenship",
+                "section_number": null,
+                "section_title": null,
+                "subsection_number": null
+            },
+            "content": {
+                "legal_text": "Chapter III: Citizenship",
+                "plain_english": "This chapter of the Constitution defines who is considered a citizen of Nigeria and outlines the various ways citizenship can be acquired, lost, or renounced.",
+                "keywords": [
+                    "Citizenship",
+                    "Nationality",
+                    "Acquisition of Citizenship",
+                    "Loss of Citizenship",
+                    "Renunciation of Citizenship"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [
+                    {
+                        "case_title": "Attorney General of the Federation v. Abubakar",
+                        "citation": "2007 10 NWLR (Pt. 1041) 1",
+                        "relevance_summary": "This case often arises in discussions about the interpretation of citizenship provisions, particularly regarding dual citizenship and eligibility for public office.",
+                        "url": null
+                    }
+                ],
+                "international_comparisons": [
+                    {
+                        "country": "United States",
+                        "constitution_provision": "14th Amendment, Immigration and Nationality Act",
+                        "similarity_note": "Many countries, including the US, have constitutional or statutory provisions defining citizenship by birth (jus soli and jus sanguinis) and naturalization processes.",
+                        "related_link": "https://www.uscis.gov/policy-manual/volume-12-part-h"
+                    },
+                    {
+                        "country": "United Kingdom",
+                        "constitution_provision": "British Nationality Act 1981",
+                        "similarity_note": "The UK also has comprehensive legislation governing citizenship acquisition, including by birth, descent, registration, and naturalization.",
+                        "related_link": "https://www.legislation.gov.uk/ukpga/1981/61/contents"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "hierarchy": {
+                "chapter": "III",
+                "chapter_title": "Citizenship",
+                "section_number": "25",
+                "section_title": "Citizenship by birth",
+                "subsection_number": null
+            },
+            "content": {
+                "legal_text": "25. (1) The following persons are citizens of Nigeria by birth-namely-(a) every person born in Nigeria before the date of independence, either of whose parents or any of whose grandparents belongs or belonged to a community indigenous to Nigeria; Provided that a person shall not become a citizen of Nigeria by virtue of this section if neither of his parents nor any of his grandparents was born in Nigeria.(b) every person born in Nigeria after the date of independence either of whose parents or any of whose grandparents is a citizen of Nigeria; and(c) every person born outside Nigeria either of whose parents is a citizen of Nigeria.(2) In this section, \"the date of independence\" means the 1st day of October 1960.",
+                "plain_english": "This section defines who is a Nigerian citizen by birth. It includes individuals born in Nigeria before October 1, 1960, if their parents or grandparents were from an indigenous Nigerian community (with a condition that at least one parent or grandparent must have been born in Nigeria). It also includes anyone born in Nigeria after October 1, 1960, if at least one parent or grandparent is a Nigerian citizen, and anyone born outside Nigeria if at least one parent is a Nigerian citizen. The 'date of independence' is explicitly stated as October 1, 1960.",
+                "keywords": [
+                    "Citizenship by birth",
+                    "Jus soli",
+                    "Jus sanguinis",
+                    "Indigenous community",
+                    "Date of independence",
+                    "Parental citizenship",
+                    "Grandparental citizenship"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [
+                    {
+                        "case_title": "Mogaji v. The State",
+                        "citation": "1974 1 All N.L.R. 1",
+                        "relevance_summary": "While not directly on citizenship, cases involving indigenous status or historical ties can sometimes touch upon the interpretation of 'community indigenous to Nigeria'.",
+                        "url": null
+                    },
+                    {
+                        "case_title": "Attorney General of the Federation v. Abubakar",
+                        "citation": "2007 10 NWLR (Pt. 1041) 1",
+                        "relevance_summary": "This case, though primarily about dual citizenship for elected officials, often involves the foundational understanding of who is a citizen by birth.",
+                        "url": null
+                    }
+                ],
+                "international_comparisons": [
+                    {
+                        "country": "United States",
+                        "constitution_provision": "14th Amendment, Section 1",
+                        "similarity_note": "The US Constitution grants citizenship to all persons born or naturalized in the US and subject to its jurisdiction (jus soli), similar to Nigeria's post-independence provision for birth in Nigeria.",
+                        "related_link": "https://constitution.congress.gov/constitution/amendment-14/"
+                    },
+                    {
+                        "country": "India",
+                        "constitution_provision": "Citizenship Act, 1955 (as amended)",
+                        "similarity_note": "India's citizenship laws also define citizenship by birth (jus soli, with modifications) and by descent (jus sanguinis), similar to Nigeria's provisions for those born outside the country to Nigerian parents.",
+                        "related_link": "https://www.india.gov.in/spotlight/citizenship-india"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "III",
+                "chapter_title": "Citizenship",
+                "section_number": "25",
+                "section_title": "Citizenship by birth",
+                "subsection_number": "(1)"
+            },
+            "content": {
+                "legal_text": "The following persons are citizens of Nigeria by birth-namely-(a) every person born in Nigeria before the date of independence, either of whose parents or any of whose grandparents belongs or belonged to a community indigenous to Nigeria; Provided that a person shall not become a citizen of Nigeria by virtue of this section if neither of his parents nor any of his grandparents was born in Nigeria.(b) every person born in Nigeria after the date of independence either of whose parents or any of whose grandparents is a citizen of Nigeria; and(c) every person born outside Nigeria either of whose parents is a citizen of Nigeria.",
+                "plain_english": "This part specifies three categories of people who are citizens by birth: (a) those born in Nigeria before October 1, 1960, whose parents or grandparents were from an indigenous Nigerian community, provided at least one parent or grandparent was also born in Nigeria; (b) those born in Nigeria after October 1, 1960, if at least one parent or grandparent is a Nigerian citizen; and (c) those born outside Nigeria if at least one parent is a Nigerian citizen.",
+                "keywords": [
+                    "Citizenship by birth",
+                    "Jus soli",
+                    "Jus sanguinis",
+                    "Pre-independence birth",
+                    "Post-independence birth",
+                    "Born abroad",
+                    "Indigenous community"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [
+                    {
+                        "case_title": "Mogaji v. The State",
+                        "citation": "1974 1 All N.L.R. 1",
+                        "relevance_summary": "Relevant for interpreting 'community indigenous to Nigeria' and historical aspects of citizenship.",
+                        "url": null
+                    }
+                ],
+                "international_comparisons": [
+                    {
+                        "country": "United States",
+                        "constitution_provision": "14th Amendment, Section 1",
+                        "similarity_note": "The principle of 'jus soli' (citizenship by birth in the territory) is a cornerstone of US citizenship, similar to Nigeria's post-independence provision.",
+                        "related_link": "https://constitution.congress.gov/constitution/amendment-14/"
+                    },
+                    {
+                        "country": "United Kingdom",
+                        "constitution_provision": "British Nationality Act 1981",
+                        "similarity_note": "The UK's Act defines citizenship by birth in the UK (with parental conditions) and by descent, reflecting both jus soli and jus sanguinis principles.",
+                        "related_link": "https://www.legislation.gov.uk/ukpga/1981/61/contents"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "III",
+                "chapter_title": "Citizenship",
+                "section_number": "25",
+                "section_title": "Citizenship by birth",
+                "subsection_number": "(1)(a)"
+            },
+            "content": {
+                "legal_text": "every person born in Nigeria before the date of independence, either of whose parents or any of whose grandparents belongs or belonged to a community indigenous to Nigeria; Provided that a person shall not become a citizen of Nigeria by virtue of this section if neither of his parents nor any of his grandparents was born in Nigeria.",
+                "plain_english": "A person born in Nigeria before October 1, 1960, is a citizen by birth if one of their parents or grandparents belonged to an indigenous Nigerian community. However, this rule doesn't apply if none of their parents or grandparents were born in Nigeria.",
+                "keywords": [
+                    "Pre-independence birth",
+                    "Indigenous community",
+                    "Parental origin",
+                    "Grandparental origin",
+                    "Birthplace requirement"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [
+                    {
+                        "case_title": "Mogaji v. The State",
+                        "citation": "1974 1 All N.L.R. 1",
+                        "relevance_summary": "This case, though not directly on citizenship, deals with the concept of indigenous communities and historical ties, which is relevant to interpreting this provision.",
+                        "url": null
+                    }
+                ],
+                "international_comparisons": [
+                    {
+                        "country": "India",
+                        "constitution_provision": "Citizenship Act, 1955 (historical provisions)",
+                        "similarity_note": "India's initial citizenship laws also had provisions for persons born before its independence, often linking to parental or ancestral ties to the territory.",
+                        "related_link": "https://www.india.gov.in/spotlight/citizenship-india"
+                    },
+                    {
+                        "country": "United Kingdom",
+                        "constitution_provision": "British Nationality Act 1948 (historical)",
+                        "similarity_note": "Historical British nationality law often linked citizenship to birth within the British Empire or descent from British subjects, which influenced post-colonial citizenship definitions.",
+                        "related_link": "https://www.legislation.gov.uk/ukpga/Geo6/11-12/56/contents"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "III",
+                "chapter_title": "Citizenship",
+                "section_number": "25",
+                "section_title": "Citizenship by birth",
+                "subsection_number": "(1)(b)"
+            },
+            "content": {
+                "legal_text": "every person born in Nigeria after the date of independence either of whose parents or any of whose grandparents is a citizen of Nigeria; and",
+                "plain_english": "Anyone born in Nigeria after October 1, 1960, is a citizen by birth if at least one of their parents or grandparents is a Nigerian citizen.",
+                "keywords": [
+                    "Post-independence birth",
+                    "Jus soli",
+                    "Parental citizenship",
+                    "Grandparental citizenship"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [
+                    {
+                        "case_title": "Attorney General of the Federation v. Abubakar",
+                        "citation": "2007 10 NWLR (Pt. 1041) 1",
+                        "relevance_summary": "This case, while focused on dual citizenship, implicitly relies on the definition of who is a citizen by birth, which is established here.",
+                        "url": null
+                    }
+                ],
+                "international_comparisons": [
+                    {
+                        "country": "United States",
+                        "constitution_provision": "14th Amendment, Section 1",
+                        "similarity_note": "The US grants citizenship to all persons born within its territory, regardless of parentage, a strong 'jus soli' principle.",
+                        "related_link": "https://constitution.congress.gov/constitution/amendment-14/"
+                    },
+                    {
+                        "country": "Canada",
+                        "constitution_provision": "Citizenship Act",
+                        "similarity_note": "Canada also largely follows 'jus soli', granting citizenship to most individuals born on Canadian soil.",
+                        "related_link": "https://laws-lois.justice.gc.ca/eng/acts/c-29/index.html"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "III",
+                "chapter_title": "Citizenship",
+                "section_number": "25",
+                "section_title": "Citizenship by birth",
+                "subsection_number": "(1)(c)"
+            },
+            "content": {
+                "legal_text": "every person born outside Nigeria either of whose parents is a citizen of Nigeria.",
+                "plain_english": "A person born outside Nigeria is a citizen by birth if at least one of their parents is a Nigerian citizen.",
+                "keywords": [
+                    "Born abroad",
+                    "Jus sanguinis",
+                    "Parental citizenship",
+                    "Citizenship by descent"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [
+                    {
+                        "case_title": "Attorney General of the Federation v. Abubakar",
+                        "citation": "2007 10 NWLR (Pt. 1041) 1",
+                        "relevance_summary": "This case, while focused on dual citizenship, implicitly relies on the definition of who is a citizen by birth, which is established here.",
+                        "url": null
+                    }
+                ],
+                "international_comparisons": [
+                    {
+                        "country": "United Kingdom",
+                        "constitution_provision": "British Nationality Act 1981",
+                        "similarity_note": "The UK grants citizenship by descent to children born outside the UK if one parent is a British citizen, similar to Nigeria's 'jus sanguinis' provision.",
+                        "related_link": "https://www.legislation.gov.uk/ukpga/1981/61/contents"
+                    },
+                    {
+                        "country": "India",
+                        "constitution_provision": "Citizenship Act, 1955",
+                        "similarity_note": "India's law also provides for citizenship by descent for those born outside India to Indian citizen parents.",
+                        "related_link": "https://www.india.gov.in/spotlight/citizenship-india"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "III",
+                "chapter_title": "Citizenship",
+                "section_number": "25",
+                "section_title": "Citizenship by birth",
+                "subsection_number": "(2)"
+            },
+            "content": {
+                "legal_text": "In this section, \"the date of independence\" means the 1st day of October 1960.",
+                "plain_english": "For the purpose of this section, 'the date of independence' refers to October 1, 1960.",
+                "keywords": [
+                    "Date of independence",
+                    "Definition",
+                    "October 1960"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [],
+                "international_comparisons": []
+            }
+        },
+        {
+            "type": "section",
+            "hierarchy": {
+                "chapter": "III",
+                "chapter_title": "Citizenship",
+                "section_number": "26",
+                "section_title": "Citizenship by registration",
+                "subsection_number": null
+            },
+            "content": {
+                "legal_text": "26. (1) Subject to the provisions of section 28 of this Constitution, a person to whom the provisions of this section apply may be registered as a citizen of Nigeria, if the President is satisfied that -(a) he is a person of good character;(b) he has shown a clear intention of his desire to be domiciled in Nigeria; and(c) he has taken the Oath of Allegiance prescribed in the Seventh Schedule to this Constitution.(2) the provisions of this section shall apply to-(a) any woman who is or has been married to a citizen of Nigeria; or(b) every person of full age and capacity born outside Nigeria any of whose grandparents is a citizen of Nigeria.",
+                "plain_english": "This section outlines how certain individuals can become Nigerian citizens by registration, provided they meet specific conditions and are not disqualified by Section 28. The President must be satisfied that the applicant has good character, intends to live permanently in Nigeria, and has taken the Oath of Allegiance. This process is available to women married to Nigerian citizens (or formerly married) and to adults born outside Nigeria whose grandparents were Nigerian citizens.",
+                "keywords": [
+                    "Citizenship by registration",
+                    "Presidential discretion",
+                    "Good character",
+                    "Domicile intention",
+                    "Oath of Allegiance",
+                    "Spousal citizenship",
+                    "Grandparental lineage",
+                    "Section 28 proviso"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [
+                    {
+                        "case_title": "Shugaba Darman v. Minister of Internal Affairs",
+                        "citation": "1981 2 NCLR 459",
+                        "relevance_summary": "While primarily about deportation and fundamental rights, this case highlights the importance of due process in matters affecting citizenship status and the powers of the executive.",
+                        "url": null
+                    }
+                ],
+                "international_comparisons": [
+                    {
+                        "country": "United Kingdom",
+                        "constitution_provision": "British Nationality Act 1981",
+                        "similarity_note": "The UK allows for registration as a citizen for certain categories, including spouses of British citizens and individuals with a British parent or grandparent, subject to character and residency requirements.",
+                        "related_link": "https://www.legislation.gov.uk/ukpga/1981/61/contents"
+                    },
+                    {
+                        "country": "India",
+                        "constitution_provision": "Citizenship Act, 1955",
+                        "similarity_note": "India's Act provides for citizenship by registration for persons of Indian origin, spouses of Indian citizens, and minor children of Indian citizens, with similar conditions like oath and good character.",
+                        "related_link": "https://www.india.gov.in/spotlight/citizenship-india"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "III",
+                "chapter_title": "Citizenship",
+                "section_number": "26",
+                "section_title": "Citizenship by registration",
+                "subsection_number": "(1)"
+            },
+            "content": {
+                "legal_text": "Subject to the provisions of section 28 of this Constitution, a person to whom the provisions of this section apply may be registered as a citizen of Nigeria, if the President is satisfied that -(a) he is a person of good character;(b) he has shown a clear intention of his desire to be domiciled in Nigeria; and(c) he has taken the Oath of Allegiance prescribed in the Seventh Schedule to this Constitution.",
+                "plain_english": "Under this section, and considering Section 28, the President can register someone as a Nigerian citizen if they meet certain criteria: they must have good character, clearly intend to live permanently in Nigeria, and have taken the Oath of Allegiance.",
+                "keywords": [
+                    "Citizenship by registration",
+                    "Presidential discretion",
+                    "Good character",
+                    "Intention to domicile",
+                    "Oath of Allegiance",
+                    "Seventh Schedule",
+                    "Section 28 proviso"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [
+                    {
+                        "case_title": "Shugaba Darman v. Minister of Internal Affairs",
+                        "citation": "1981 2 NCLR 459",
+                        "relevance_summary": "This case, though not directly on registration, underscores the importance of due process and the executive's powers in citizenship matters.",
+                        "url": null
+                    }
+                ],
+                "international_comparisons": [
+                    {
+                        "country": "United States",
+                        "constitution_provision": "Immigration and Nationality Act",
+                        "similarity_note": "The US naturalization process requires applicants to demonstrate good moral character, an intention to reside permanently, and to take an Oath of Allegiance.",
+                        "related_link": "https://www.uscis.gov/policy-manual/volume-12-part-d"
+                    },
+                    {
+                        "country": "United Kingdom",
+                        "constitution_provision": "British Nationality Act 1981",
+                        "similarity_note": "The UK also requires applicants for registration or naturalization to be of good character and to take an oath of allegiance.",
+                        "related_link": "https://www.legislation.gov.uk/ukpga/1981/61/contents"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "III",
+                "chapter_title": "Citizenship",
+                "section_number": "26",
+                "section_title": "Citizenship by registration",
+                "subsection_number": "(1)(a)"
+            },
+            "content": {
+                "legal_text": "he is a person of good character;",
+                "plain_english": "The applicant must be considered a person of good character.",
+                "keywords": [
+                    "Good character",
+                    "Citizenship requirement",
+                    "Moral standing"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [
+                    {
+                        "case_title": "Shugaba Darman v. Minister of Internal Affairs",
+                        "citation": "1981 2 NCLR 459",
+                        "relevance_summary": "Cases involving the executive's assessment of an individual's character or suitability for residence can be relevant here.",
+                        "url": null
+                    }
+                ],
+                "international_comparisons": [
+                    {
+                        "country": "United States",
+                        "constitution_provision": "Immigration and Nationality Act",
+                        "similarity_note": "US naturalization requires applicants to demonstrate 'good moral character'.",
+                        "related_link": "https://www.uscis.gov/policy-manual/volume-12-part-d-chapter-2"
+                    },
+                    {
+                        "country": "United Kingdom",
+                        "constitution_provision": "British Nationality Act 1981",
+                        "similarity_note": "The UK also has a 'good character' requirement for most citizenship applications.",
+                        "related_link": "https://www.gov.uk/government/publications/good-character-requirement-nationality-applications"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "III",
+                "chapter_title": "Citizenship",
+                "section_number": "26",
+                "section_title": "Citizenship by registration",
+                "subsection_number": "(1)(b)"
+            },
+            "content": {
+                "legal_text": "he has shown a clear intention of his desire to be domiciled in Nigeria; and",
+                "plain_english": "The applicant must demonstrate a clear intention to make Nigeria their permanent home.",
+                "keywords": [
+                    "Intention to domicile",
+                    "Permanent residence",
+                    "Citizenship requirement"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [
+                    {
+                        "case_title": "Shugaba Darman v. Minister of Internal Affairs",
+                        "citation": "1981 2 NCLR 459",
+                        "relevance_summary": "This case, concerning a person's right to reside in Nigeria, touches on the concept of domicile and the government's power to determine residency.",
+                        "url": null
+                    }
+                ],
+                "international_comparisons": [
+                    {
+                        "country": "United Kingdom",
+                        "constitution_provision": "British Nationality Act 1981",
+                        "similarity_note": "The UK requires applicants for naturalization to demonstrate an 'intention to reside' in the UK.",
+                        "related_link": "https://www.gov.uk/apply-citizenship-indefinite-leave-to-remain/eligibility"
+                    },
+                    {
+                        "country": "Canada",
+                        "constitution_provision": "Citizenship Act",
+                        "similarity_note": "Canadian citizenship law includes a 'residence requirement' which implies an intention to make Canada one's home.",
+                        "related_link": "https://laws-lois.justice.gc.ca/eng/acts/c-29/page-1.html#docCont"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "III",
+                "chapter_title": "Citizenship",
+                "section_number": "26",
+                "section_title": "Citizenship by registration",
+                "subsection_number": "(1)(c)"
+            },
+            "content": {
+                "legal_text": "he has taken the Oath of Allegiance prescribed in the Seventh Schedule to this Constitution.",
+                "plain_english": "The applicant must have taken the Oath of Allegiance as outlined in the Constitution's Seventh Schedule.",
+                "keywords": [
+                    "Oath of Allegiance",
+                    "Citizenship requirement",
+                    "Seventh Schedule",
+                    "Loyalty"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [],
+                "international_comparisons": [
+                    {
+                        "country": "United States",
+                        "constitution_provision": "Immigration and Nationality Act",
+                        "similarity_note": "All US naturalization applicants must take an Oath of Allegiance to the United States.",
+                        "related_link": "https://www.uscis.gov/citizenship/naturalization-test/oath-allegiance"
+                    },
+                    {
+                        "country": "United Kingdom",
+                        "constitution_provision": "British Nationality Act 1981",
+                        "similarity_note": "Applicants for British citizenship are required to take an oath of allegiance and a pledge.",
+                        "related_link": "https://www.gov.uk/citizenship-ceremony"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "III",
+                "chapter_title": "Citizenship",
+                "section_number": "26",
+                "section_title": "Citizenship by registration",
+                "subsection_number": "(2)"
+            },
+            "content": {
+                "legal_text": "the provisions of this section shall apply to-(a) any woman who is or has been married to a citizen of Nigeria; or(b) every person of full age and capacity born outside Nigeria any of whose grandparents is a citizen of Nigeria.",
+                "plain_english": "This section applies to (a) any woman who is currently or was previously married to a Nigerian citizen, and (b) any adult born outside Nigeria whose grandparents were Nigerian citizens.",
+                "keywords": [
+                    "Eligibility for registration",
+                    "Spousal citizenship",
+                    "Marriage to citizen",
+                    "Grandparental lineage",
+                    "Full age and capacity",
+                    "Born abroad"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [
+                    {
+                        "case_title": "Attorney General of the Federation v. Abubakar",
+                        "citation": "2007 10 NWLR (Pt. 1041) 1",
+                        "relevance_summary": "This case, while focused on dual citizenship, implicitly relies on the definition of who is a citizen by birth, which is established here.",
+                        "url": null
+                    }
+                ],
+                "international_comparisons": [
+                    {
+                        "country": "United States",
+                        "constitution_provision": "Immigration and Nationality Act",
+                        "similarity_note": "The US provides expedited naturalization paths for spouses of US citizens.",
+                        "related_link": "https://www.uscis.gov/green-card/green-card-through-family/green-card-for-spouse-of-us-citizen"
+                    },
+                    {
+                        "country": "United Kingdom",
+                        "constitution_provision": "British Nationality Act 1981",
+                        "similarity_note": "The UK allows for registration as a British citizen for spouses of British citizens and individuals with a British grandparent.",
+                        "related_link": "https://www.gov.uk/apply-citizenship-indefinite-leave-to-remain/eligibility"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "III",
+                "chapter_title": "Citizenship",
+                "section_number": "26",
+                "section_title": "Citizenship by registration",
+                "subsection_number": "(2)(a)"
+            },
+            "content": {
+                "legal_text": "any woman who is or has been married to a citizen of Nigeria; or",
+                "plain_english": "This applies to any woman who is currently married to a Nigerian citizen or was previously married to one.",
+                "keywords": [
+                    "Spousal citizenship",
+                    "Marriage to citizen",
+                    "Women's citizenship",
+                    "Marital status"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [],
+                "international_comparisons": [
+                    {
+                        "country": "United States",
+                        "constitution_provision": "Immigration and Nationality Act",
+                        "similarity_note": "Spouses of US citizens generally have a shorter residency requirement for naturalization.",
+                        "related_link": "https://www.uscis.gov/policy-manual/volume-12-part-g-chapter-3"
+                    },
+                    {
+                        "country": "India",
+                        "constitution_provision": "Citizenship Act, 1955",
+                        "similarity_note": "The Indian Act allows a person who is married to a citizen of India to apply for citizenship by registration.",
+                        "related_link": "https://www.india.gov.in/spotlight/citizenship-india"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "III",
+                "chapter_title": "Citizenship",
+                "section_number": "26",
+                "section_title": "Citizenship by registration",
+                "subsection_number": "(2)(b)"
+            },
+            "content": {
+                "legal_text": "every person of full age and capacity born outside Nigeria any of whose grandparents is a citizen of Nigeria.",
+                "plain_english": "This applies to any adult (of full legal age and mental capacity) who was born outside Nigeria and has at least one grandparent who is a Nigerian citizen.",
+                "keywords": [
+                    "Grandparental lineage",
+                    "Born abroad",
+                    "Full age and capacity",
+                    "Citizenship by registration",
+                    "Descent"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [],
+                "international_comparisons": [
+                    {
+                        "country": "United Kingdom",
+                        "constitution_provision": "British Nationality Act 1981",
+                        "similarity_note": "The UK allows for registration as a British citizen for individuals with a British grandparent, subject to certain conditions.",
+                        "related_link": "https://www.gov.uk/apply-citizenship-grandparent"
+                    },
+                    {
+                        "country": "Ireland",
+                        "constitution_provision": "Irish Nationality and Citizenship Acts",
+                        "similarity_note": "Ireland offers citizenship by descent through grandparents for those born outside Ireland, often requiring registration in a foreign births register.",
+                        "related_link": "https://www.irishimmigration.ie/how-to-apply-for-irish-citizenship/irish-citizenship-by-descent/"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "hierarchy": {
+                "chapter": "III",
+                "chapter_title": "Citizenship",
+                "section_number": "27",
+                "section_title": "Citizenship by naturalisation",
+                "subsection_number": null
+            },
+            "content": {
+                "legal_text": "27. (1) Subject to the provisions of section 28 of this Constitution, any person who is qualified in accordance with the provisions of this section may apply to the President for the same of a certificate of naturalisation.(2) No person shall be qualified to apply for the grant of a certificate or naturalisation, unless he satisfies the President that -(a) he is a person of full age and capacity;(b) he is a person of good character;(c) he has shown a clear intention of his desire to be domiciled in Nigeria;(d) he is, in the opinion of the Governor of the State where he is or he proposes to be resident, acceptable to the local community in which he is to live permanently, and has been assimilated into the way of life of Nigerians in that part of the Federation;(e) he is a person who has made or is capable of making useful contribution to the advancement; progress and well-being of Nigeria;(f) he has taken the Oath of Allegiance prescribed in the Seventh Schedule to this Constitution; and(g) he has, immediately preceding the date of his application, either-(i) resided in Nigeria for a continuous period of fifteen years; or(ii) resided in Nigeria continuously for a period of twelve months, and during the period of twenty years immediately preceding that period of twelve months has resided in Nigeria for periods amounting in the aggregate to not less than fifteen years.",
+                "plain_english": "This section outlines the process for obtaining Nigerian citizenship through naturalization, subject to Section 28. An applicant must apply to the President and satisfy several strict conditions: they must be an adult of sound mind, of good character, intend to live permanently in Nigeria, be accepted by their local community and assimilated into Nigerian life, be able to contribute to Nigeria's development, take the Oath of Allegiance, and meet specific long-term residency requirements (either 15 continuous years or 12 continuous months preceded by 15 years of aggregate residency over 20 years).",
+                "keywords": [
+                    "Citizenship by naturalisation",
+                    "Presidential application",
+                    "Full age and capacity",
+                    "Good character",
+                    "Domicile intention",
+                    "Community acceptance",
+                    "Assimilation",
+                    "Contribution to Nigeria",
+                    "Oath of Allegiance",
+                    "Residency requirements",
+                    "Section 28 proviso"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [
+                    {
+                        "case_title": "Shugaba Darman v. Minister of Internal Affairs",
+                        "citation": "1981 2 NCLR 459",
+                        "relevance_summary": "This case, though focused on deportation, highlights the executive's powers and the rights of individuals concerning residency and citizenship status, which are foundational to naturalization.",
+                        "url": null
+                    }
+                ],
+                "international_comparisons": [
+                    {
+                        "country": "United States",
+                        "constitution_provision": "Immigration and Nationality Act",
+                        "similarity_note": "The US naturalization process has similar requirements including age, good moral character, residency, knowledge of English and civics, and an oath of allegiance.",
+                        "related_link": "https://www.uscis.gov/citizenship/become-us-citizen/citizenship-and-naturalization"
+                    },
+                    {
+                        "country": "Germany",
+                        "constitution_provision": "Nationality Act (Staatsangeh\u00f6rigkeitsgesetz)",
+                        "similarity_note": "Germany's naturalization process also emphasizes integration, language proficiency, and a commitment to the democratic order, similar to Nigeria's assimilation and contribution requirements.",
+                        "related_link": "https://www.gesetze-im-internet.de/englisch_stag/"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "III",
+                "chapter_title": "Citizenship",
+                "section_number": "27",
+                "section_title": "Citizenship by naturalisation",
+                "subsection_number": "(1)"
+            },
+            "content": {
+                "legal_text": "Subject to the provisions of section 28 of this Constitution, any person who is qualified in accordance with the provisions of this section may apply to the President for the same of a certificate of naturalisation.",
+                "plain_english": "Anyone who meets the qualifications in this section, and is not excluded by Section 28, can apply to the President for a certificate of naturalization.",
+                "keywords": [
+                    "Application for naturalisation",
+                    "Presidential authority",
+                    "Certificate of naturalisation",
+                    "Section 28 proviso"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [],
+                "international_comparisons": [
+                    {
+                        "country": "United States",
+                        "constitution_provision": "Immigration and Nationality Act",
+                        "similarity_note": "Individuals apply to USCIS (under the Department of Homeland Security) for naturalization, which is then approved by the government.",
+                        "related_link": "https://www.uscis.gov/citizenship/apply-for-citizenship"
+                    },
+                    {
+                        "country": "United Kingdom",
+                        "constitution_provision": "British Nationality Act 1981",
+                        "similarity_note": "Applications for naturalization are made to the Home Secretary, who has discretion in granting citizenship.",
+                        "related_link": "https://www.gov.uk/apply-citizenship-indefinite-leave-to-remain"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "III",
+                "chapter_title": "Citizenship",
+                "section_number": "27",
+                "section_title": "Citizenship by naturalisation",
+                "subsection_number": "(2)"
+            },
+            "content": {
+                "legal_text": "No person shall be qualified to apply for the grant of a certificate or naturalisation, unless he satisfies the President that -(a) he is a person of full age and capacity;(b) he is a person of good character;(c) he has shown a clear intention of his desire to be domiciled in Nigeria;(d) he is, in the opinion of the Governor of the State where he is or he proposes to be resident, acceptable to the local community in which he is to live permanently, and has been assimilated into the way of life of Nigerians in that part of the Federation;(e) he is a person who has made or is capable of making useful contribution to the advancement; progress and well-being of Nigeria;(f) he has taken the Oath of Allegiance prescribed in the Seventh Schedule to this Constitution; and(g) he has, immediately preceding the date of his application, either-(i) resided in Nigeria for a continuous period of fifteen years; or(ii) resided in Nigeria continuously for a period of twelve months, and during the period of twenty years immediately preceding that period of twelve months has resided in Nigeria for periods amounting in the aggregate to not less than fifteen years.",
+                "plain_english": "To qualify for naturalization, an applicant must convince the President that they meet all the following conditions: (a) they are an adult of sound mind; (b) they have good character; (c) they clearly intend to live permanently in Nigeria; (d) they are accepted by their local community and have adopted Nigerian ways of life, as confirmed by the State Governor; (e) they can contribute positively to Nigeria's development; (f) they have taken the Oath of Allegiance; and (g) they have lived in Nigeria for either 15 continuous years immediately before applying, or for 12 continuous months immediately before applying, preceded by a total of at least 15 years of residency within the last 20 years.",
+                "keywords": [
+                    "Naturalisation qualifications",
+                    "Full age and capacity",
+                    "Good character",
+                    "Domicile intention",
+                    "Community acceptance",
+                    "Assimilation",
+                    "Contribution to Nigeria",
+                    "Oath of Allegiance",
+                    "Residency requirements"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [
+                    {
+                        "case_title": "Shugaba Darman v. Minister of Internal Affairs",
+                        "citation": "1981 2 NCLR 459",
+                        "relevance_summary": "This case, while not directly on naturalization, highlights the executive's discretion and the importance of meeting residency and character requirements for citizenship-related matters.",
+                        "url": null
+                    }
+                ],
+                "international_comparisons": [
+                    {
+                        "country": "United States",
+                        "constitution_provision": "Immigration and Nationality Act",
+                        "similarity_note": "US naturalization requires continuous residence, good moral character, English language proficiency, knowledge of US government and history, and an oath of allegiance.",
+                        "related_link": "https://www.uscis.gov/citizenship/become-us-citizen/citizenship-and-naturalization"
+                    },
+                    {
+                        "country": "Canada",
+                        "constitution_provision": "Citizenship Act",
+                        "similarity_note": "Canada's naturalization requirements include residency, language ability, knowledge of Canada, and an oath of citizenship.",
+                        "related_link": "https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/become-canadian-citizen/eligibility.html"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "III",
+                "chapter_title": "Citizenship",
+                "section_number": "27",
+                "section_title": "Citizenship by naturalisation",
+                "subsection_number": "(2)(a)"
+            },
+            "content": {
+                "legal_text": "he is a person of full age and capacity;",
+                "plain_english": "The applicant must be an adult and legally capable (of sound mind).",
+                "keywords": [
+                    "Full age",
+                    "Legal capacity",
+                    "Naturalisation requirement",
+                    "Adult"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [],
+                "international_comparisons": [
+                    {
+                        "country": "United States",
+                        "constitution_provision": "Immigration and Nationality Act",
+                        "similarity_note": "Applicants for naturalization must generally be 18 years or older.",
+                        "related_link": "https://www.uscis.gov/policy-manual/volume-12-part-d-chapter-1"
+                    },
+                    {
+                        "country": "United Kingdom",
+                        "constitution_provision": "British Nationality Act 1981",
+                        "similarity_note": "Applicants for naturalization must generally be 18 years or older.",
+                        "related_link": "https://www.gov.uk/apply-citizenship-indefinite-leave-to-remain/eligibility"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "III",
+                "chapter_title": "Citizenship",
+                "section_number": "27",
+                "section_title": "Citizenship by naturalisation",
+                "subsection_number": "(2)(b)"
+            },
+            "content": {
+                "legal_text": "he is a person of good character;",
+                "plain_english": "The applicant must be considered a person of good character.",
+                "keywords": [
+                    "Good character",
+                    "Naturalisation requirement",
+                    "Moral standing"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [
+                    {
+                        "case_title": "Shugaba Darman v. Minister of Internal Affairs",
+                        "citation": "1981 2 NCLR 459",
+                        "relevance_summary": "Cases involving the executive's assessment of an individual's character or suitability for residence can be relevant here.",
+                        "url": null
+                    }
+                ],
+                "international_comparisons": [
+                    {
+                        "country": "United States",
+                        "constitution_provision": "Immigration and Nationality Act",
+                        "similarity_note": "US naturalization requires applicants to demonstrate 'good moral character'.",
+                        "related_link": "https://www.uscis.gov/policy-manual/volume-12-part-d-chapter-2"
+                    },
+                    {
+                        "country": "United Kingdom",
+                        "constitution_provision": "British Nationality Act 1981",
+                        "similarity_note": "The UK also has a 'good character' requirement for most citizenship applications.",
+                        "related_link": "https://www.gov.uk/government/publications/good-character-requirement-nationality-applications"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "III",
+                "chapter_title": "Citizenship",
+                "section_number": "27",
+                "section_title": "Citizenship by naturalisation",
+                "subsection_number": "(2)(c)"
+            },
+            "content": {
+                "legal_text": "he has shown a clear intention of his desire to be domiciled in Nigeria;",
+                "plain_english": "The applicant must clearly show they intend to live permanently in Nigeria.",
+                "keywords": [
+                    "Intention to domicile",
+                    "Permanent residence",
+                    "Naturalisation requirement"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [
+                    {
+                        "case_title": "Shugaba Darman v. Minister of Internal Affairs",
+                        "citation": "1981 2 NCLR 459",
+                        "relevance_summary": "This case, concerning a person's right to reside in Nigeria, touches on the concept of domicile and the government's power to determine residency.",
+                        "url": null
+                    }
+                ],
+                "international_comparisons": [
+                    {
+                        "country": "United Kingdom",
+                        "constitution_provision": "British Nationality Act 1981",
+                        "similarity_note": "The UK requires applicants for naturalization to declare an 'intention to reside' in the UK.",
+                        "related_link": "https://www.gov.uk/apply-citizenship-indefinite-leave-to-remain/eligibility"
+                    },
+                    {
+                        "country": "Canada",
+                        "constitution_provision": "Citizenship Act",
+                        "similarity_note": "Canadian citizenship law includes a 'residence requirement' which implies an intention to make Canada one's home.",
+                        "related_link": "https://laws-lois.justice.gc.ca/eng/acts/c-29/page-1.html#docCont"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "III",
+                "chapter_title": "Citizenship",
+                "section_number": "27",
+                "section_title": "Citizenship by naturalisation",
+                "subsection_number": "(2)(d)"
+            },
+            "content": {
+                "legal_text": "he is, in the opinion of the Governor of the State where he is or he proposes to be resident, acceptable to the local community in which he is to live permanently, and has been assimilated into the way of life of Nigerians in that part of the Federation;",
+                "plain_english": "The Governor of the state where the applicant lives or plans to live must confirm that the applicant is accepted by the local community and has integrated into the Nigerian way of life in that area.",
+                "keywords": [
+                    "Community acceptance",
+                    "Assimilation",
+                    "State Governor opinion",
+                    "Local integration",
+                    "Naturalisation requirement",
+                    "Way of life"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [
+                    {
+                        "case_title": "Shugaba Darman v. Minister of Internal Affairs",
+                        "citation": "1981 2 NCLR 459",
+                        "relevance_summary": "This case, though not directly on naturalization, highlights the executive's discretion and the importance of meeting residency and character requirements for citizenship-related matters, including community acceptance.",
+                        "url": null
+                    }
+                ],
+                "international_comparisons": [
+                    {
+                        "country": "Germany",
+                        "constitution_provision": "Nationality Act (Staatsangeh\u00f6rigkeitsgesetz)",
+                        "similarity_note": "German naturalization law places a strong emphasis on integration into German society and commitment to its democratic values.",
+                        "related_link": "https://www.gesetze-im-internet.de/englisch_stag/"
+                    },
+                    {
+                        "country": "France",
+                        "constitution_provision": "Civil Code (Code civil)",
+                        "similarity_note": "French naturalization requires proof of 'assimilation' into the French community, including knowledge of French language and culture.",
+                        "related_link": "https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "III",
+                "chapter_title": "Citizenship",
+                "section_number": "27",
+                "section_title": "Citizenship by naturalisation",
+                "subsection_number": "(2)(e)"
+            },
+            "content": {
+                "legal_text": "he is a person who has made or is capable of making useful contribution to the advancement; progress and well-being of Nigeria;",
+                "plain_english": "The applicant must have already contributed or be capable of contributing positively to Nigeria's development, progress, and welfare.",
+                "keywords": [
+                    "Useful contribution",
+                    "National advancement",
+                    "Progress and well-being",
+                    "Naturalisation requirement",
+                    "Economic contribution"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [],
+                "international_comparisons": [
+                    {
+                        "country": "Canada",
+                        "constitution_provision": "Citizenship Act (exceptional circumstances)",
+                        "similarity_note": "While not a general requirement, some countries like Canada have provisions for granting citizenship in 'exceptional circumstances' to individuals who have made outstanding contributions.",
+                        "related_link": "https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/become-canadian-citizen/exceptional-circumstances.html"
+                    },
+                    {
+                        "country": "Australia",
+                        "constitution_provision": "Australian Citizenship Act 2007",
+                        "similarity_note": "Australia has provisions for 'special eligibility' for citizenship for individuals of special talent or global distinction, implying a contribution to the nation.",
+                        "related_link": "https://www.legislation.gov.au/Details/C2007A00063"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "III",
+                "chapter_title": "Citizenship",
+                "section_number": "27",
+                "section_title": "Citizenship by naturalisation",
+                "subsection_number": "(2)(f)"
+            },
+            "content": {
+                "legal_text": "he has taken the Oath of Allegiance prescribed in the Seventh Schedule to this Constitution; and",
+                "plain_english": "The applicant must have taken the Oath of Allegiance as specified in the Seventh Schedule of the Constitution.",
+                "keywords": [
+                    "Oath of Allegiance",
+                    "Seventh Schedule",
+                    "Naturalisation requirement",
+                    "Loyalty"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [],
+                "international_comparisons": [
+                    {
+                        "country": "United States",
+                        "constitution_provision": "Immigration and Nationality Act",
+                        "similarity_note": "All US naturalization applicants must take an Oath of Allegiance to the United States.",
+                        "related_link": "https://www.uscis.gov/citizenship/naturalization-test/oath-allegiance"
+                    },
+                    {
+                        "country": "United Kingdom",
+                        "constitution_provision": "British Nationality Act 1981",
+                        "similarity_note": "Applicants for British citizenship are required to take an oath of allegiance and a pledge.",
+                        "related_link": "https://www.gov.uk/citizenship-ceremony"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "III",
+                "chapter_title": "Citizenship",
+                "section_number": "27",
+                "section_title": "Citizenship by naturalisation",
+                "subsection_number": "(2)(g)"
+            },
+            "content": {
+                "legal_text": "he has, immediately preceding the date of his application, either-(i) resided in Nigeria for a continuous period of fifteen years; or(ii) resided in Nigeria continuously for a period of twelve months, and during the period of twenty years immediately preceding that period of twelve months has resided in Nigeria for periods amounting in the aggregate to not less than fifteen years.",
+                "plain_english": "Immediately before applying, the applicant must have either lived in Nigeria continuously for 15 years, or lived in Nigeria continuously for 12 months, and also lived in Nigeria for a total of at least 15 years within the 20 years preceding that 12-month period.",
+                "keywords": [
+                    "Residency requirements",
+                    "Continuous residence",
+                    "Aggregate residence",
+                    "Naturalisation requirement",
+                    "Fifteen years",
+                    "Twelve months",
+                    "Twenty years"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [],
+                "international_comparisons": [
+                    {
+                        "country": "United States",
+                        "constitution_provision": "Immigration and Nationality Act",
+                        "similarity_note": "The US generally requires 5 years of continuous residence (3 years for spouses of US citizens) before applying for naturalization.",
+                        "related_link": "https://www.uscis.gov/citizenship/become-us-citizen/citizenship-and-naturalization"
+                    },
+                    {
+                        "country": "United Kingdom",
+                        "constitution_provision": "British Nationality Act 1981",
+                        "similarity_note": "The UK generally requires 5 years of continuous residence (3 years for spouses of British citizens) before applying for naturalization.",
+                        "related_link": "https://www.gov.uk/apply-citizenship-indefinite-leave-to-remain/eligibility"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "III",
+                "chapter_title": "Citizenship",
+                "section_number": "27",
+                "section_title": "Citizenship by naturalisation",
+                "subsection_number": "(2)(g)(i)"
+            },
+            "content": {
+                "legal_text": "resided in Nigeria for a continuous period of fifteen years; or",
+                "plain_english": "The applicant must have lived in Nigeria continuously for fifteen years immediately before their application.",
+                "keywords": [
+                    "Continuous residence",
+                    "Fifteen years",
+                    "Naturalisation requirement"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [],
+                "international_comparisons": []
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "III",
+                "chapter_title": "Citizenship",
+                "section_number": "27",
+                "section_title": "Citizenship by naturalisation",
+                "subsection_number": "(2)(g)(ii)"
+            },
+            "content": {
+                "legal_text": "resided in Nigeria continuously for a period of twelve months, and during the period of twenty years immediately preceding that period of twelve months has resided in Nigeria for periods amounting in the aggregate to not less than fifteen years.",
+                "plain_english": "Alternatively, the applicant must have lived in Nigeria continuously for 12 months immediately before applying, and also have accumulated at least 15 years of residency in Nigeria over the 20 years prior to that 12-month period.",
+                "keywords": [
+                    "Aggregate residence",
+                    "Continuous residence",
+                    "Twelve months",
+                    "Fifteen years",
+                    "Twenty years",
+                    "Naturalisation requirement"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [],
+                "international_comparisons": []
+            }
+        },
+        {
+            "type": "section",
+            "hierarchy": {
+                "chapter": "III",
+                "chapter_title": "Citizenship",
+                "section_number": "28",
+                "section_title": "Avoidance of dual citizenship",
+                "subsection_number": null
+            },
+            "content": {
+                "legal_text": "28. (1) Subject to the other provisions of this section, a person shall forfeit forthwith his Nigerian citizenship if, not being a citizen of Nigeria by birth, he acquires or retains the citizenship or nationality of a country, other than Nigeria, of which he is not a citizen by birth.(2) Any registration of a person as a citizen of Nigeria or the grant of a certificate of naturalisation to a person who is a citizen of a country other than Nigeria at the time of such registration or grant shall, if he is not a citizen by birth of that other country, be conditional upon effective renunciation of the citizenship or nationality of that other country within a period of not more than five months from the date of such registration or grant.",
+                "plain_english": "This section generally prohibits dual citizenship for those who are not Nigerian citizens by birth. (1) If someone who isn't a Nigerian citizen by birth acquires or keeps citizenship of another country (unless they are a citizen of that other country by birth), they immediately lose their Nigerian citizenship. (2) If a non-birth Nigerian citizen is registered or naturalized while also being a citizen of another country (and not a birth citizen of that other country), their Nigerian citizenship is conditional on them formally renouncing their other citizenship within five months.",
+                "keywords": [
+                    "Dual citizenship",
+                    "Forfeiture of citizenship",
+                    "Renunciation of citizenship",
+                    "Citizenship by birth exception",
+                    "Registration",
+                    "Naturalisation",
+                    "Five months deadline"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [
+                    {
+                        "case_title": "Attorney General of the Federation v. Abubakar",
+                        "citation": "2007 10 NWLR (Pt. 1041) 1",
+                        "relevance_summary": "This landmark case extensively discussed the implications of dual citizenship for elected officials in Nigeria, directly interpreting Section 28.",
+                        "url": null
+                    },
+                    {
+                        "case_title": "Okoro v. The State",
+                        "citation": "2016 15 NWLR (Pt. 1534) 123",
+                        "relevance_summary": "Cases dealing with the loss or acquisition of citizenship often refer to the principles laid out in Section 28.",
+                        "url": null
+                    }
+                ],
+                "international_comparisons": [
+                    {
+                        "country": "India",
+                        "constitution_provision": "Citizenship Act, 1955",
+                        "similarity_note": "India generally does not allow dual citizenship, requiring individuals to renounce foreign citizenship upon acquiring Indian citizenship.",
+                        "related_link": "https://www.india.gov.in/spotlight/citizenship-india"
+                    },
+                    {
+                        "country": "Germany",
+                        "constitution_provision": "Nationality Act (Staatsangeh\u00f6rigkeitsgesetz)",
+                        "similarity_note": "Germany generally requires renunciation of prior citizenship upon naturalization, though exceptions exist, particularly for EU citizens.",
+                        "related_link": "https://www.gesetze-im-internet.de/englisch_stag/"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "III",
+                "chapter_title": "Citizenship",
+                "section_number": "28",
+                "section_title": "Avoidance of dual citizenship",
+                "subsection_number": "(1)"
+            },
+            "content": {
+                "legal_text": "Subject to the other provisions of this section, a person shall forfeit forthwith his Nigerian citizenship if, not being a citizen of Nigeria by birth, he acquires or retains the citizenship or nationality of a country, other than Nigeria, of which he is not a citizen by birth.",
+                "plain_english": "Unless other parts of this section state otherwise, a person who is not a Nigerian citizen by birth will immediately lose their Nigerian citizenship if they gain or keep citizenship of another country, unless they are a citizen of that other country by birth.",
+                "keywords": [
+                    "Forfeiture of citizenship",
+                    "Dual nationality",
+                    "Non-birth citizen",
+                    "Acquisition of foreign citizenship",
+                    "Retention of foreign citizenship",
+                    "Exception for birth citizenship abroad"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [
+                    {
+                        "case_title": "Attorney General of the Federation v. Abubakar",
+                        "citation": "2007 10 NWLR (Pt. 1041) 1",
+                        "relevance_summary": "This case directly addresses the forfeiture of Nigerian citizenship due to the acquisition or retention of foreign citizenship by non-birth citizens.",
+                        "url": null
+                    }
+                ],
+                "international_comparisons": [
+                    {
+                        "country": "India",
+                        "constitution_provision": "Citizenship Act, 1955",
+                        "similarity_note": "Indian law mandates that if a person voluntarily acquires citizenship of another country, their Indian citizenship is automatically terminated.",
+                        "related_link": "https://www.india.gov.in/spotlight/citizenship-india"
+                    },
+                    {
+                        "country": "Japan",
+                        "constitution_provision": "Nationality Act",
+                        "similarity_note": "Japan generally does not permit dual nationality and requires individuals to choose one citizenship by a certain age.",
+                        "related_link": "https://www.moj.go.jp/EN/MINJI/minji07.html"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "III",
+                "chapter_title": "Citizenship",
+                "section_number": "28",
+                "section_title": "Avoidance of dual citizenship",
+                "subsection_number": "(2)"
+            },
+            "content": {
+                "legal_text": "Any registration of a person as a citizen of Nigeria or the grant of a certificate of naturalisation to a person who is a citizen of a country other than Nigeria at the time of such registration or grant shall, if he is not a citizen by birth of that other country, be conditional upon effective renunciation of the citizenship or nationality of that other country within a period of not more than five months from the date of such registration or grant.",
+                "plain_english": "If someone who is already a citizen of another country (and not a birth citizen of that country) is registered or naturalized as a Nigerian citizen, their Nigerian citizenship is temporary. They must formally give up their other citizenship within five months of becoming a Nigerian citizen, otherwise, their Nigerian citizenship will be invalid.",
+                "keywords": [
+                    "Conditional citizenship",
+                    "Renunciation requirement",
+                    "Five months deadline",
+                    "Registration",
+                    "Naturalisation",
+                    "Dual nationality",
+                    "Non-birth citizen abroad"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [
+                    {
+                        "case_title": "Attorney General of the Federation v. Abubakar",
+                        "citation": "2007 10 NWLR (Pt. 1041) 1",
+                        "relevance_summary": "This case directly addresses the implications of dual citizenship for elected officials and the requirement for renunciation.",
+                        "url": null
+                    }
+                ],
+                "international_comparisons": [
+                    {
+                        "country": "Canada",
+                        "constitution_provision": "Citizenship Act",
+                        "similarity_note": "Canada generally requires naturalization applicants to renounce their prior citizenship, though the process and timing may differ.",
+                        "related_link": "https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/become-canadian-citizen/apply.html"
+                    },
+                    {
+                        "country": "Australia",
+                        "constitution_provision": "Australian Citizenship Act 2007",
+                        "similarity_note": "Australia may require renunciation of foreign citizenship for naturalization, depending on the country of origin and specific circumstances.",
+                        "related_link": "https://immi.homeaffairs.gov.au/citizenship/become-a-citizen/permanent-resident"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "hierarchy": {
+                "chapter": "III",
+                "chapter_title": "Citizenship",
+                "section_number": "29",
+                "section_title": "Renunciation of citizenship",
+                "subsection_number": null
+            },
+            "content": {
+                "legal_text": "29. (1) Any citizen of Nigeria of full age who wishes to renounce his Nigerian citizenship shall make a declaration in the prescribed manner for the renunciation.(2) The President shall cause the declaration made under subsection (1) of this section to be registered and upon such registration, the person who made the declaration shall cease to be a citizen of Nigeria.(3) The President may withhold the registration of any declaration made under subsection (1) of this section if-(a) the declaration is made during any war in which Nigeria is physically involved; or(b) in his opinion, it is otherwise contrary to public policy.(4) For the purposes of subsection (1) of this section.(a) \"full age\" means the age of eighteen years and above;(b) any woman who is married shall be deemed to be of full age.",
+                "plain_english": "This section allows Nigerian citizens of full age to renounce their citizenship. (1) An adult Nigerian citizen can declare their intention to renounce citizenship in the specified way. (2) Once the President registers this declaration, the person who made the declaration stops being a Nigerian citizen. (3) However, the President can refuse to register the renunciation if Nigeria is involved in a war or if it's against public policy. (4) For this section, 'full age' means 18 years or older, and any married woman is considered to be of full age.",
+                "keywords": [
+                    "Renunciation of citizenship",
+                    "Full age",
+                    "Declaration",
+                    "Presidential registration",
+                    "Cessation of citizenship",
+                    "Withholding registration",
+                    "War",
+                    "Public policy",
+                    "Definition of full age",
+                    "Married woman"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [],
+                "international_comparisons": [
+                    {
+                        "country": "United States",
+                        "constitution_provision": "Immigration and Nationality Act",
+                        "similarity_note": "US citizens have a right to renounce their citizenship, typically through a formal declaration at a US embassy or consulate abroad.",
+                        "related_link": "https://travel.state.gov/content/travel/en/legal/travel-legal-considerations/us-citizenship/Renunciation-US-Nationality-Abroad.html"
+                    },
+                    {
+                        "country": "United Kingdom",
+                        "constitution_provision": "British Nationality Act 1981",
+                        "similarity_note": "British citizens can renounce their citizenship by making a declaration, which is then registered by the Home Secretary.",
+                        "related_link": "https://www.gov.uk/renounce-british-citizenship"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "III",
+                "chapter_title": "Citizenship",
+                "section_number": "29",
+                "section_title": "Renunciation of citizenship",
+                "subsection_number": "(1)"
+            },
+            "content": {
+                "legal_text": "Any citizen of Nigeria of full age who wishes to renounce his Nigerian citizenship shall make a declaration in the prescribed manner for the renunciation.",
+                "plain_english": "Any adult Nigerian citizen who wants to give up their citizenship must formally declare their intention in the way specified by law.",
+                "keywords": [
+                    "Renunciation",
+                    "Full age",
+                    "Declaration",
+                    "Prescribed manner",
+                    "Voluntary"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [],
+                "international_comparisons": [
+                    {
+                        "country": "United States",
+                        "constitution_provision": "Immigration and Nationality Act",
+                        "similarity_note": "US citizens must make a formal declaration of renunciation before a consular officer.",
+                        "related_link": "https://travel.state.gov/content/travel/en/legal/travel-legal-considerations/us-citizenship/Renunciation-US-Nationality-Abroad.html"
+                    },
+                    {
+                        "country": "Canada",
+                        "constitution_provision": "Citizenship Act",
+                        "similarity_note": "Canadian citizens can renounce their citizenship by applying to the Minister, provided certain conditions are met.",
+                        "related_link": "https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/renounce-canadian-citizenship.html"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "III",
+                "chapter_title": "Citizenship",
+                "section_number": "29",
+                "section_title": "Renunciation of citizenship",
+                "subsection_number": "(2)"
+            },
+            "content": {
+                "legal_text": "The President shall cause the declaration made under subsection (1) of this section to be registered and upon such registration, the person who made the declaration shall cease to be a citizen of Nigeria.",
+                "plain_english": "The President is responsible for registering the renunciation declaration. Once registered, the person who made the declaration is no longer a Nigerian citizen.",
+                "keywords": [
+                    "Presidential registration",
+                    "Cessation of citizenship",
+                    "Renunciation process",
+                    "Legal effect"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [],
+                "international_comparisons": [
+                    {
+                        "country": "United States",
+                        "constitution_provision": "Immigration and Nationality Act",
+                        "similarity_note": "Upon approval of renunciation, a Certificate of Loss of Nationality is issued, formally ending US citizenship.",
+                        "related_link": "https://travel.state.gov/content/travel/en/legal/travel-legal-considerations/us-citizenship/Renunciation-US-Nationality-Abroad.html"
+                    },
+                    {
+                        "country": "United Kingdom",
+                        "constitution_provision": "British Nationality Act 1981",
+                        "similarity_note": "Renunciation takes effect upon registration of the declaration by the Home Secretary.",
+                        "related_link": "https://www.gov.uk/renounce-british-citizenship"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "III",
+                "chapter_title": "Citizenship",
+                "section_number": "29",
+                "section_title": "Renunciation of citizenship",
+                "subsection_number": "(3)"
+            },
+            "content": {
+                "legal_text": "The President may withhold the registration of any declaration made under subsection (1) of this section if-(a) the declaration is made during any war in which Nigeria is physically involved; or(b) in his opinion, it is otherwise contrary to public policy.",
+                "plain_english": "The President has the power to refuse to register a renunciation if Nigeria is currently involved in a war, or if the President believes it would be against the public interest.",
+                "keywords": [
+                    "Withholding registration",
+                    "Presidential discretion",
+                    "War involvement",
+                    "Public policy",
+                    "National interest",
+                    "National security"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [],
+                "international_comparisons": [
+                    {
+                        "country": "United States",
+                        "constitution_provision": "Immigration and Nationality Act",
+                        "similarity_note": "While the right to renounce is fundamental, it can be restricted during wartime or if it would be contrary to national security.",
+                        "related_link": "https://travel.state.gov/content/travel/en/legal/travel-legal-considerations/us-citizenship/Renunciation-US-Nationality-Abroad.html"
+                    },
+                    {
+                        "country": "United Kingdom",
+                        "constitution_provision": "British Nationality Act 1981",
+                        "similarity_note": "The Home Secretary may refuse to register a renunciation if it is not in the public interest.",
+                        "related_link": "https://www.gov.uk/renounce-british-citizenship"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "III",
+                "chapter_title": "Citizenship",
+                "section_number": "29",
+                "section_title": "Renunciation of citizenship",
+                "subsection_number": "(3)(a)"
+            },
+            "content": {
+                "legal_text": "the declaration is made during any war in which Nigeria is physically involved; or",
+                "plain_english": "The President can refuse registration if the renunciation is declared while Nigeria is actively engaged in a war.",
+                "keywords": [
+                    "War",
+                    "National security",
+                    "Renunciation restriction",
+                    "Wartime"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [],
+                "international_comparisons": [
+                    {
+                        "country": "United States",
+                        "constitution_provision": "Immigration and Nationality Act",
+                        "similarity_note": "Renunciation of US citizenship during wartime can be viewed as an act of disloyalty and may be subject to restrictions.",
+                        "related_link": "https://travel.state.gov/content/travel/en/legal/travel-legal-considerations/us-citizenship/Renunciation-US-Nationality-Abroad.html"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "III",
+                "chapter_title": "Citizenship",
+                "section_number": "29",
+                "section_title": "Renunciation of citizenship",
+                "subsection_number": "(3)(b)"
+            },
+            "content": {
+                "legal_text": "in his opinion, it is otherwise contrary to public policy.",
+                "plain_english": "The President can refuse registration if, in their judgment, it goes against the public interest.",
+                "keywords": [
+                    "Public policy",
+                    "Presidential opinion",
+                    "National interest",
+                    "Renunciation restriction",
+                    "Discretionary power"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [],
+                "international_comparisons": [
+                    {
+                        "country": "United Kingdom",
+                        "constitution_provision": "British Nationality Act 1981",
+                        "similarity_note": "The Home Secretary can refuse to register a renunciation if it is not in the public interest.",
+                        "related_link": "https://www.gov.uk/renounce-british-citizenship"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "III",
+                "chapter_title": "Citizenship",
+                "section_number": "29",
+                "section_title": "Renunciation of citizenship",
+                "subsection_number": "(4)"
+            },
+            "content": {
+                "legal_text": "For the purposes of subsection (1) of this section.(a) \"full age\" means the age of eighteen years and above;(b) any woman who is married shall be deemed to be of full age.",
+                "plain_english": "For the purpose of renouncing citizenship under subsection (1), 'full age' means 18 years or older. Additionally, any married woman is considered to be of full age, regardless of her actual age.",
+                "keywords": [
+                    "Definition of full age",
+                    "Eighteen years",
+                    "Married woman",
+                    "Legal capacity",
+                    "Minor"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [],
+                "international_comparisons": [
+                    {
+                        "country": "United States",
+                        "constitution_provision": "State laws on age of majority",
+                        "similarity_note": "The age of majority in the US is generally 18, but the provision deeming married women of full age is less common in modern US law.",
+                        "related_link": "https://www.usa.gov/age-of-majority"
+                    },
+                    {
+                        "country": "United Kingdom",
+                        "constitution_provision": "Family Law Reform Act 1969",
+                        "similarity_note": "The age of majority in the UK is 18. The specific provision for married women being deemed of full age is a historical artifact in many legal systems, less common in contemporary law.",
+                        "related_link": "https://www.legislation.gov.uk/ukpga/1969/46"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "III",
+                "chapter_title": "Citizenship",
+                "section_number": "29",
+                "section_title": "Renunciation of citizenship",
+                "subsection_number": "(4)(a)"
+            },
+            "content": {
+                "legal_text": "\"full age\" means the age of eighteen years and above;",
+                "plain_english": "For this section, 'full age' is defined as 18 years old or older.",
+                "keywords": [
+                    "Full age definition",
+                    "Eighteen years",
+                    "Legal age"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [],
+                "international_comparisons": [
+                    {
+                        "country": "United States",
+                        "constitution_provision": "State laws on age of majority",
+                        "similarity_note": "The age of majority in most US states is 18 years.",
+                        "related_link": "https://www.usa.gov/age-of-majority"
+                    },
+                    {
+                        "country": "Canada",
+                        "constitution_provision": "Provincial/Territorial laws on age of majority",
+                        "similarity_note": "The age of majority in Canada is typically 18 or 19, depending on the province/territory.",
+                        "related_link": "https://www.justice.gc.ca/eng/fl-df/child-enfant/maj.html"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "III",
+                "chapter_title": "Citizenship",
+                "section_number": "29",
+                "section_title": "Renunciation of citizenship",
+                "subsection_number": "(4)(b)"
+            },
+            "content": {
+                "legal_text": "any woman who is married shall be deemed to be of full age.",
+                "plain_english": "Any woman who is married is legally considered to be of full age, regardless of her actual chronological age.",
+                "keywords": [
+                    "Married woman",
+                    "Deemed full age",
+                    "Legal capacity",
+                    "Marital status"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [],
+                "international_comparisons": [
+                    {
+                        "country": "India",
+                        "constitution_provision": "Hindu Marriage Act, 1955 (historical context)",
+                        "similarity_note": "Historically, some legal systems, including in India, had provisions where marriage conferred adult status, though modern laws tend to standardize the age of majority.",
+                        "related_link": "https://www.indiacode.nic.in/handle/123456789/2379?locale=en"
+                    },
+                    {
+                        "country": "United Kingdom",
+                        "constitution_provision": "Historical common law",
+                        "similarity_note": "Under historical common law, marriage often conferred legal adulthood on women, even if they were chronologically minors, though this has largely been superseded by modern legislation.",
+                        "related_link": "https://www.legislation.gov.uk/ukpga/1969/46"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "hierarchy": {
+                "chapter": "III",
+                "chapter_title": "Citizenship",
+                "section_number": "30",
+                "section_title": "Deprivation of citizenship",
+                "subsection_number": null
+            },
+            "content": {
+                "legal_text": "30. (1) The President may deprive a person, other than a person who is a citizen of Nigeria by birth or by registration, of his citizenship, if he is satisfied that such a person has, within a period of seven years after becoming naturalised, been sentenced to imprisonment for a term of not less than three years.(2) The President shall deprive a person, other than a person who is citizen of Nigeria by birth, of his citizenship, if he is satisfied from the records of proceedings of a court of law or other tribunal or after due inquiry in accordance with regulations made by him, that -(a) the person has shown himself by act or speech to be disloyal towards the Federal Republic of Nigeria; or(b) the person has, during any war in which Nigeria was engaged, unlawfully traded with the enemy or been engaged in or associated with any business that was in the opinion of the president carried on in such a manner as to assist the enemy of Nigeria in that war, or unlawfully communicated with such enemy to the detriment of or with intent to cause damage to the interest of Nigeria.",
+                "plain_english": "This section outlines when the President can revoke a person's Nigerian citizenship. (1) The President can revoke the citizenship of a naturalized person (but not a citizen by birth or registration) if, within seven years of naturalization, they are sentenced to at least three years in prison. (2) The President *must* revoke the citizenship of any non-birth citizen if it's proven (through court records or an inquiry) that they have shown disloyalty to Nigeria through actions or words, or if during a war, they unlawfully traded with or assisted an enemy, or communicated with an enemy to Nigeria's detriment.",
+                "keywords": [
+                    "Deprivation of citizenship",
+                    "Revocation of citizenship",
+                    "Naturalized citizen",
+                    "Imprisonment",
+                    "Disloyalty",
+                    "War",
+                    "Trading with enemy",
+                    "Assisting enemy",
+                    "National security",
+                    "Presidential power"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [
+                    {
+                        "case_title": "Shugaba Darman v. Minister of Internal Affairs",
+                        "citation": "1981 2 NCLR 459",
+                        "relevance_summary": "This case, though pre-dating the specific wording, deals with the executive's power to affect a person's citizenship status and the importance of due process.",
+                        "url": null
+                    },
+                    {
+                        "case_title": "Attorney General of the Federation v. Abubakar",
+                        "citation": "2007 10 NWLR (Pt. 1041) 1",
+                        "relevance_summary": "This case, while focused on dual citizenship, touches on the fundamental aspects of citizenship and its potential loss.",
+                        "url": null
+                    }
+                ],
+                "international_comparisons": [
+                    {
+                        "country": "United Kingdom",
+                        "constitution_provision": "British Nationality Act 1981",
+                        "similarity_note": "The UK allows for deprivation of citizenship (especially for naturalized citizens) on grounds of serious crime, fraud, or actions seriously prejudicial to the UK's interests.",
+                        "related_link": "https://www.legislation.gov.uk/ukpga/1981/61/contents"
+                    },
+                    {
+                        "country": "United States",
+                        "constitution_provision": "Immigration and Nationality Act",
+                        "similarity_note": "The US provides for denaturalization (revocation of naturalized citizenship) for fraud, misrepresentation, or certain acts of disloyalty.",
+                        "related_link": "https://www.uscis.gov/policy-manual/volume-12-part-l"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "III",
+                "chapter_title": "Citizenship",
+                "section_number": "30",
+                "section_title": "Deprivation of citizenship",
+                "subsection_number": "(1)"
+            },
+            "content": {
+                "legal_text": "The President may deprive a person, other than a person who is a citizen of Nigeria by birth or by registration, of his citizenship, if he is satisfied that such a person has, within a period of seven years after becoming naturalised, been sentenced to imprisonment for a term of not less than three years.",
+                "plain_english": "The President has the discretion to take away the citizenship of a naturalized person (but not someone who is a citizen by birth or registration) if, within seven years of becoming naturalized, that person was sentenced to at least three years in prison.",
+                "keywords": [
+                    "Deprivation of citizenship",
+                    "Naturalized citizen",
+                    "Seven-year period",
+                    "Imprisonment",
+                    "Three-year sentence",
+                    "Presidential discretion",
+                    "Criminal offense"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [
+                    {
+                        "case_title": "Shugaba Darman v. Minister of Internal Affairs",
+                        "citation": "1981 2 NCLR 459",
+                        "relevance_summary": "This case, though not directly on this specific clause, highlights the executive's power to affect citizenship status and the need for due process.",
+                        "url": null
+                    }
+                ],
+                "international_comparisons": [
+                    {
+                        "country": "United Kingdom",
+                        "constitution_provision": "British Nationality Act 1981",
+                        "similarity_note": "The UK allows for deprivation of citizenship if a person has been convicted of a serious criminal offence.",
+                        "related_link": "https://www.gov.uk/government/publications/deprivation-of-british-citizenship"
+                    },
+                    {
+                        "country": "Canada",
+                        "constitution_provision": "Citizenship Act",
+                        "similarity_note": "Canada allows for revocation of citizenship for serious criminal offenses, particularly those related to national security or organized crime.",
+                        "related_link": "https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/revoke-canadian-citizenship.html"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "III",
+                "chapter_title": "Citizenship",
+                "section_number": "30",
+                "section_title": "Deprivation of citizenship",
+                "subsection_number": "(2)"
+            },
+            "content": {
+                "legal_text": "The President shall deprive a person, other than a person who is citizen of Nigeria by birth, of his citizenship, if he is satisfied from the records of proceedings of a court of law or other tribunal or after due inquiry in accordance with regulations made by him, that -(a) the person has shown himself by act or speech to be disloyal towards the Federal Republic of Nigeria; or(b) the person has, during any war in which Nigeria was engaged, unlawfully traded with the enemy or been engaged in or associated with any business that was in the opinion of the president carried on in such a manner as to assist the enemy of Nigeria in that war, or unlawfully communicated with such enemy to the detriment of or with intent to cause damage to the interest of Nigeria.",
+                "plain_english": "The President *must* take away the citizenship of any person who is not a citizen by birth if it is proven (through court records, tribunal proceedings, or an official inquiry) that: (a) the person has demonstrated disloyalty to Nigeria through their actions or words; or (b) during a war involving Nigeria, the person illegally traded with or assisted the enemy, or was involved in a business that the President believes helped the enemy, or illegally communicated with the enemy in a way that harmed or intended to harm Nigeria's interests.",
+                "keywords": [
+                    "Mandatory deprivation",
+                    "Non-birth citizen",
+                    "Disloyalty",
+                    "Treason",
+                    "War",
+                    "Trading with enemy",
+                    "Assisting enemy",
+                    "National security",
+                    "Court records",
+                    "Due inquiry",
+                    "Presidential duty"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [
+                    {
+                        "case_title": "Shugaba Darman v. Minister of Internal Affairs",
+                        "citation": "1981 2 NCLR 459",
+                        "relevance_summary": "This case, though pre-dating the specific wording, deals with the executive's power to affect a person's citizenship status and the importance of due process in such serious matters.",
+                        "url": null
+                    }
+                ],
+                "international_comparisons": [
+                    {
+                        "country": "United Kingdom",
+                        "constitution_provision": "British Nationality Act 1981",
+                        "similarity_note": "The UK allows for deprivation of citizenship if it is conducive to the public good, particularly on grounds of national security or serious harm to UK interests.",
+                        "related_link": "https://www.gov.uk/government/publications/deprivation-of-british-citizenship"
+                    },
+                    {
+                        "country": "United States",
+                        "constitution_provision": "Immigration and Nationality Act",
+                        "similarity_note": "The US provides for denaturalization for acts of disloyalty, treason, or participation in certain hostile activities against the US.",
+                        "related_link": "https://www.uscis.gov/policy-manual/volume-12-part-l"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "III",
+                "chapter_title": "Citizenship",
+                "section_number": "30",
+                "section_title": "Deprivation of citizenship",
+                "subsection_number": "(2)(a)"
+            },
+            "content": {
+                "legal_text": "the person has shown himself by act or speech to be disloyal towards the Federal Republic of Nigeria; or",
+                "plain_english": "The person has demonstrated disloyalty to Nigeria through their actions or words.",
+                "keywords": [
+                    "Disloyalty",
+                    "Treason",
+                    "National security",
+                    "Act or speech",
+                    "Subversion"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [
+                    {
+                        "case_title": "Shugaba Darman v. Minister of Internal Affairs",
+                        "citation": "1981 2 NCLR 459",
+                        "relevance_summary": "This case, though not directly on this clause, highlights the executive's power to affect citizenship status and the need for due process in such serious matters.",
+                        "url": null
+                    }
+                ],
+                "international_comparisons": [
+                    {
+                        "country": "United Kingdom",
+                        "constitution_provision": "British Nationality Act 1981",
+                        "similarity_note": "Deprivation of citizenship can occur if a person has acted in a manner seriously prejudicial to the vital interests of the UK.",
+                        "related_link": "https://www.gov.uk/government/publications/deprivation-of-british-citizenship"
+                    },
+                    {
+                        "country": "United States",
+                        "constitution_provision": "Immigration and Nationality Act",
+                        "similarity_note": "Denaturalization can occur for acts of disloyalty, such as committing treason or attempting to overthrow the government.",
+                        "related_link": "https://www.uscis.gov/policy-manual/volume-12-part-l"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "III",
+                "chapter_title": "Citizenship",
+                "section_number": "30",
+                "section_title": "Deprivation of citizenship",
+                "subsection_number": "(2)(b)"
+            },
+            "content": {
+                "legal_text": "the person has, during any war in which Nigeria was engaged, unlawfully traded with the enemy or been engaged in or associated with any business that was in the opinion of the president carried on in such a manner as to assist the enemy of Nigeria in that war, or unlawfully communicated with such enemy to the detriment of or with intent to cause damage to the interest of Nigeria.",
+                "plain_english": "During a war involving Nigeria, the person illegally traded with or assisted the enemy, or was involved in a business that the President believes helped the enemy, or illegally communicated with the enemy in a way that harmed or intended to harm Nigeria's interests.",
+                "keywords": [
+                    "War",
+                    "Trading with enemy",
+                    "Assisting enemy",
+                    "Unlawful communication",
+                    "National interest",
+                    "Treason",
+                    "Presidential opinion",
+                    "Espionage"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [],
+                "international_comparisons": [
+                    {
+                        "country": "United States",
+                        "constitution_provision": "Immigration and Nationality Act, Espionage Act",
+                        "similarity_note": "US law provides for denaturalization and severe penalties for acts of treason, espionage, or aiding an enemy during wartime.",
+                        "related_link": "https://www.uscis.gov/policy-manual/volume-12-part-l"
+                    },
+                    {
+                        "country": "United Kingdom",
+                        "constitution_provision": "British Nationality Act 1981, Treason Act 1351",
+                        "similarity_note": "Deprivation of citizenship can occur for acts seriously prejudicial to the UK's interests, which would include wartime collaboration or aiding an enemy.",
+                        "related_link": "https://www.legislation.gov.uk/ukpga/1981/61/contents"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "hierarchy": {
+                "chapter": "III",
+                "chapter_title": "Citizenship",
+                "section_number": "31",
+                "section_title": "Persons deemed to be citizens of Nigeria",
+                "subsection_number": null
+            },
+            "content": {
+                "legal_text": "31. For the purposes of this Chapter, a parent or grandparent of a person shall be deemed to be a citizen of Nigeria if at the time of the birth of that person such parent or grandparent would have possessed that status by birth if he had been alive on the date of independence; and in this section, \"the date of independence\" has the meaning assigned to it in section 25 (2) of this Constitution.",
+                "plain_english": "For the rules in this chapter, a person's parent or grandparent is considered a Nigerian citizen if, at the time of the person's birth, that parent or grandparent would have been a citizen by birth had they been alive on October 1, 1960 (Nigeria's independence day). The 'date of independence' here means the same as defined in Section 25(2).",
+                "keywords": [
+                    "Deemed citizen",
+                    "Parental status",
+                    "Grandparental status",
+                    "Date of independence",
+                    "Citizenship by birth",
+                    "Historical citizenship",
+                    "Section 25(2)"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [
+                    {
+                        "case_title": "Mogaji v. The State",
+                        "citation": "1974 1 All N.L.R. 1",
+                        "relevance_summary": "Cases dealing with indigenous status and historical ties are relevant to understanding how pre-independence lineage is interpreted for citizenship purposes.",
+                        "url": null
+                    },
+                    {
+                        "case_title": "Attorney General of the Federation v. Abubakar",
+                        "citation": "2007 10 NWLR (Pt. 1041) 1",
+                        "relevance_summary": "This case, while focused on dual citizenship, implicitly relies on the foundational understanding of who is a citizen by birth, which is established here.",
+                        "url": null
+                    }
+                ],
+                "international_comparisons": [
+                    {
+                        "country": "India",
+                        "constitution_provision": "Citizenship Act, 1955 (historical provisions)",
+                        "similarity_note": "India's citizenship laws also contain provisions for 'deemed citizens' or those whose ancestors would have been citizens at the time of independence, to establish lineage.",
+                        "related_link": "https://www.india.gov.in/spotlight/citizenship-india"
+                    },
+                    {
+                        "country": "Ireland",
+                        "constitution_provision": "Irish Nationality and Citizenship Acts",
+                        "similarity_note": "Ireland has provisions for citizenship by descent based on parents or grandparents who were Irish citizens at the time of the applicant's birth, or who would have been if alive.",
+                        "related_link": "https://www.irishimmigration.ie/how-to-apply-for-irish-citizenship/irish-citizenship-by-descent/"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "hierarchy": {
+                "chapter": "III",
+                "chapter_title": "Citizenship",
+                "section_number": "32",
+                "section_title": "Power to make regulations",
+                "subsection_number": null
+            },
+            "content": {
+                "legal_text": "32. (1) The president may make regulations, not inconsistent with this Chapter, prescribing all matters which are required or permitted to be prescribed or which are necessary or convenient to be prescribed for carrying out or giving effect to the provisions of this Chapter, and for granting special immigrant status with full residential rights to non-Nigerian spouses of citizens of Nigeria who do not wish to acquire Nigerian citizenship.(2) Any regulations made by the president pursuant to the provisions of this section shall be laid before the National Assembly.",
+                "plain_english": "This section grants the President the authority to create regulations to implement this chapter on citizenship. (1) The President can make rules that are consistent with this chapter to cover any necessary or convenient matters for putting the chapter into effect. This also includes granting special immigrant status with full residency rights to non-Nigerian spouses of Nigerian citizens who choose not to become Nigerian citizens themselves. (2) Any such regulations made by the President must be presented to the National Assembly for review.",
+                "keywords": [
+                    "Presidential power",
+                    "Regulations",
+                    "Implementation of Chapter",
+                    "Special immigrant status",
+                    "Residential rights",
+                    "Non-Nigerian spouses",
+                    "National Assembly review",
+                    "Delegated legislation"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [],
+                "international_comparisons": [
+                    {
+                        "country": "United States",
+                        "constitution_provision": "Immigration and Nationality Act",
+                        "similarity_note": "The US President and relevant agencies (like DHS) have broad powers to issue regulations and executive orders to implement immigration and nationality laws.",
+                        "related_link": "https://www.uscis.gov/policy-manual"
+                    },
+                    {
+                        "country": "United Kingdom",
+                        "constitution_provision": "Immigration Act 1971, British Nationality Act 1981",
+                        "similarity_note": "The Home Secretary has powers to make immigration rules and regulations to give effect to nationality laws, which are subject to parliamentary scrutiny.",
+                        "related_link": "https://www.gov.uk/government/collections/immigration-rules"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "III",
+                "chapter_title": "Citizenship",
+                "section_number": "32",
+                "section_title": "Power to make regulations",
+                "subsection_number": "(1)"
+            },
+            "content": {
+                "legal_text": "The president may make regulations, not inconsistent with this Chapter, prescribing all matters which are required or permitted to be prescribed or which are necessary or convenient to be prescribed for carrying out or giving effect to the provisions of this Chapter, and for granting special immigrant status with full residential rights to non-Nigerian spouses of citizens of Nigeria who do not wish to acquire Nigerian citizenship.",
+                "plain_english": "The President has the authority to create regulations that align with this chapter. These regulations can cover anything required or allowed by the chapter, or anything necessary to implement it. This includes the power to grant special immigrant status and full residency rights to foreign spouses of Nigerian citizens who prefer not to become Nigerian citizens themselves.",
+                "keywords": [
+                    "Presidential power to regulate",
+                    "Consistency with Chapter",
+                    "Implementation",
+                    "Special immigrant status",
+                    "Residential rights",
+                    "Non-Nigerian spouses",
+                    "Choice not to naturalize"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [],
+                "international_comparisons": [
+                    {
+                        "country": "United States",
+                        "constitution_provision": "Immigration and Nationality Act",
+                        "similarity_note": "The US Department of Homeland Security issues regulations to implement immigration laws, including provisions for spouses of US citizens.",
+                        "related_link": "https://www.uscis.gov/policy-manual"
+                    },
+                    {
+                        "country": "Canada",
+                        "constitution_provision": "Immigration and Refugee Protection Act",
+                        "similarity_note": "Canada's immigration laws allow for regulations to be made concerning family reunification and residency rights for spouses.",
+                        "related_link": "https://laws-lois.justice.gc.ca/eng/acts/i-2.5/index.html"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "subsection",
+            "hierarchy": {
+                "chapter": "III",
+                "chapter_title": "Citizenship",
+                "section_number": "32",
+                "section_title": "Power to make regulations",
+                "subsection_number": "(2)"
+            },
+            "content": {
+                "legal_text": "Any regulations made by the president pursuant to the provisions of this section shall be laid before the National Assembly.",
+                "plain_english": "All regulations created by the President under this section must be presented to the National Assembly for their review.",
+                "keywords": [
+                    "National Assembly review",
+                    "Legislative oversight",
+                    "Presidential regulations",
+                    "Checks and balances",
+                    "Parliamentary scrutiny"
+                ]
+            },
+            "cross_references": {
+                "case_laws": [],
+                "international_comparisons": [
+                    {
+                        "country": "United Kingdom",
+                        "constitution_provision": "Statutory Instruments Act 1946",
+                        "similarity_note": "In the UK, statutory instruments (delegated legislation) made by ministers are typically 'laid before Parliament' for scrutiny, often subject to annulment or affirmative resolution procedures.",
+                        "related_link": "https://www.legislation.gov.uk/ukpga/Geo6/9-10/36/contents"
+                    },
+                    {
+                        "country": "India",
+                        "constitution_provision": "Article 123 (Ordinances), Article 309 (Rules)",
+                        "similarity_note": "In India, rules and regulations made by the executive are often required to be laid before Parliament, allowing for legislative oversight.",
+                        "related_link": "https://indiankanoon.org/doc/123307/"
+                    }
+                ]
+            }
+        }
+    ]
+}
