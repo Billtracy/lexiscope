@@ -118,11 +118,9 @@
                 </form>
             </div>
         </div>
-
         {{-- Help text --}}
         <p class="text-center mt-5 text-xs text-slate-400 dark:text-slate-500">
             Access is by invitation only. Contact admin for an account.
         </p>
-
     </div>
 </x-guest-layout>
