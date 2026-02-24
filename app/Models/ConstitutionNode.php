@@ -91,4 +91,9 @@ class ConstitutionNode extends Model
     {
         return $this->belongsTo(User::class, 'locked_by');
     }
+
+    public function verifiedBy()
+    {
+        return $this->belongsTo(User::class, 'verified_by');
+    }
 }
