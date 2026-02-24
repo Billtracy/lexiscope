@@ -8,7 +8,6 @@ storage/framework/cache/*
 storage/framework/sessions/*
 storage/framework/views/*
 tests/
-docker/
 *.md
 docker-compose.yml
 python_worker/venv/
