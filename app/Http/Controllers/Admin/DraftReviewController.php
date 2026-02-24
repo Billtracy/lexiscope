@@ -8,24 +8,39 @@ use Illuminate\Http\Request;
 
 class DraftReviewController extends Controller
 {
-    public function index()
+    public function index(Request $request)
     {
-        // Show all sections that have children (subsections) needing review
-        $sections = ConstitutionNode::where('type', 'section')
+        $tab = $request->query('tab', 'awaiting');
+
+        $awaitingQuery = ConstitutionNode::where('type', 'section')
             ->whereHas('children', function ($query) {
                 $query->whereIn('status', ['ai_generated', 'draft']);
+            });
+
+        $awaitingCount = $awaitingQuery->count();
+
+        $publishedQuery = ConstitutionNode::where('type', 'section')
+            ->whereHas('children', function ($query) {
+                $query->where('status', 'published');
             })
+            ->whereDoesntHave('children', function ($query) {
+                $query->whereIn('status', ['ai_generated', 'draft']);
+            });
+
+        $publishedCount = $publishedQuery->count();
+
+        $sections = ($tab === 'published' ? $publishedQuery : $awaitingQuery)
             ->orderBy('chapter_sort')
             ->orderBy('section_sort')
             ->get();
 
-        return view('admin.drafts.index', compact('sections'));
+        return view('admin.drafts.index', compact('sections', 'awaitingCount', 'publishedCount'));
     }
 
     public function section(ConstitutionNode $section)
     {
         // Show subsections of this section
-        $subsections = $section->children()->orderBy('subsection_sort')->with('lockedBy')->get();
+        $subsections = $section->children()->orderBy('subsection_sort')->with(['lockedBy', 'verifiedBy'])->get();
         return view('admin.drafts.section', compact('section', 'subsections'));
     }
 

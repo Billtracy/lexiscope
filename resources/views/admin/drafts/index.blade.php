@@ -3,7 +3,9 @@
         <div class="flex items-center justify-between gap-4">
             <div>
                 <p class="section-heading">Admin</p>
-                <h1 class="text-xl font-bold text-slate-800 dark:text-white mt-0.5">Sections Awaiting Review</h1>
+                <h1 class="text-xl font-bold text-slate-800 dark:text-white mt-0.5">
+                    {{ request('tab') === 'published' ? 'Published Sections' : 'Sections Awaiting Review' }}
+                </h1>
             </div>
             <div class="flex items-center gap-3">
                 <span class="badge-ai hidden sm:inline-flex">
@@ -35,6 +37,26 @@
                 {{ session('status') }}
             </div>
         @endif
+
+        {{-- Tabs --}}
+        <div class="flex items-center gap-6 border-b border-slate-200 dark:border-slate-700/60 mb-6 px-1">
+            <a href="{{ route('admin.drafts.index') }}"
+                class="pb-3 text-sm font-semibold transition-colors duration-150 border-b-2
+                      {{ request('tab') !== 'published' ? 'border-brand-500 text-brand-600 dark:text-brand-400' : 'border-transparent text-slate-500 hover:text-slate-700 dark:text-slate-400 dark:hover:text-slate-300' }}">
+                Awaiting Review
+                <span class="ml-1.5 py-0.5 px-2 text-[10px] bg-slate-100 dark:bg-slate-800 rounded-full font-bold">
+                    {{ $awaitingCount ?? 0 }}
+                </span>
+            </a>
+            <a href="{{ route('admin.drafts.index', ['tab' => 'published']) }}"
+                class="pb-3 text-sm font-semibold transition-colors duration-150 border-b-2
+                      {{ request('tab') === 'published' ? 'border-brand-500 text-brand-600 dark:text-brand-400' : 'border-transparent text-slate-500 hover:text-slate-700 dark:text-slate-400 dark:hover:text-slate-300' }}">
+                Published
+                <span class="ml-1.5 py-0.5 px-2 text-[10px] bg-slate-100 dark:bg-slate-800 rounded-full font-bold">
+                    {{ $publishedCount ?? 0 }}
+                </span>
+            </a>
+        </div>
 
         {{-- Search / Filter Bar --}}
         <div class="relative mb-5" x-data="{ q: '' }">

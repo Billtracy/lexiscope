@@ -10,10 +10,12 @@ class PublicController extends Controller
     public function index()
     {
         $chapters = ConstitutionNode::where('type', 'chapter')
-                        ->where('status', 'published')
+                        ->whereHas('children', function($q) {
+                            $q->where('status', 'published');
+                        })
                         ->with(['children' => function($q) {
                             $q->where('status', 'published')
-                              ->with(['caseLaws', 'internationalComparisons'])
+                              ->with(['caseLaws', 'internationalComparisons', 'verifiedBy'])
                               ->orderBy('section_sort');
                         }])
                         ->orderBy('chapter_sort')

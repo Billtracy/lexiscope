@@ -199,9 +199,9 @@
                     </div>
 
                     {{-- Preamble --}}
-                    <div class="mb-20 max-w-2xl mx-auto">
+                    <div class="mb-12 md:mb-20 max-w-2xl mx-auto px-2 md:px-0">
                         <div
-                            class="flex items-center gap-2 mb-4
+                            class="flex items-center gap-2 mb-3 md:mb-4
                                     text-brand-700 dark:text-brand-400 text-xs font-semibold uppercase tracking-wider">
                             <svg class="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor"
                                 stroke-width="2">
@@ -211,9 +211,9 @@
                             Preamble
                         </div>
                         <blockquote
-                            class="relative pl-6 border-l-4 border-brand-400 dark:border-brand-600
-                                          font-serif text-slate-700 dark:text-slate-300 leading-relaxed text-[15px] space-y-4">
-                            <p class="font-semibold text-slate-900 dark:text-white text-base">
+                            class="relative pl-4 md:pl-6 border-l-[3px] md:border-l-4 border-brand-400 dark:border-brand-600
+                                          font-serif text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-[15px] space-y-3 md:space-y-4">
+                            <p class="font-semibold text-slate-900 dark:text-white text-[15px] md:text-base">
                                 Constitution of the Federal Republic of Nigeria 1999
                             </p>
                             <p>
@@ -274,6 +274,19 @@
                                                     </span>
                                                     @if ($section->section_title && $section->section_title !== 'Untitled Section')
                                                         {{ $section->section_title }}
+                                                    @endif
+                                                    @if ($section->verifiedBy)
+                                                        <span
+                                                            class="inline-flex items-center gap-1 px-2 py-0.5 rounded text-[10px] font-sans font-semibold uppercase tracking-wider bg-emerald-50 text-emerald-600 dark:bg-emerald-900/30 dark:text-emerald-400 border border-emerald-100 dark:border-emerald-800 shrink-0">
+                                                            <svg class="w-2.5 h-2.5" fill="none"
+                                                                viewBox="0 0 24 24" stroke="currentColor"
+                                                                stroke-width="2.5">
+                                                                <path stroke-linecap="round" stroke-linejoin="round"
+                                                                    d="M5 13l4 4L19 7" />
+                                                            </svg>
+                                                            Verified by
+                                                            {{ explode(' ', trim($section->verifiedBy->name))[0] }}
+                                                        </span>
                                                     @endif
                                                 </h3>
 
