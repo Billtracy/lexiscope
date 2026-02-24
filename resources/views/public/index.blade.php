@@ -309,46 +309,146 @@
                                                 @endif
                                             </div>
 
-                                            {{-- Legal text --}}
-                                            <div
-                                                class="prose prose-slate dark:prose-invert max-w-none
-                                                        font-serif text-slate-700 dark:text-slate-300 leading-relaxed text-[15px]">
-                                                <p>{{ $section->legal_text }}</p>
-                                            </div>
-
-                                            {{-- Plain English --}}
-                                            @if ($section->plain_english)
+                                            {{-- Render Section Legal Text if there are no subsections, or if the text is substantial --}}
+                                            @if ($section->children->isEmpty() && $section->legal_text && $section->legal_text !== $section->section_title)
                                                 <div
-                                                    class="mt-5 p-5 rounded-2xl
-                                                            bg-brand-50/60 dark:bg-brand-900/10
-                                                            border border-brand-200/60 dark:border-brand-700/30">
-                                                    <div
-                                                        class="flex items-center gap-2 mb-2.5
-                                                                text-brand-700 dark:text-brand-400 font-semibold text-xs uppercase tracking-wider">
-                                                        <svg class="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24"
-                                                            stroke="currentColor" stroke-width="2">
-                                                            <path stroke-linecap="round" stroke-linejoin="round"
-                                                                d="M13 10V3L4 14h7v7l9-11h-7z" />
-                                                        </svg>
-                                                        Plain English
-                                                    </div>
-                                                    <p
-                                                        class="text-slate-700 dark:text-slate-300 text-sm leading-relaxed">
-                                                        {{ $section->plain_english }}
-                                                    </p>
+                                                    class="prose prose-slate dark:prose-invert max-w-none font-serif text-slate-700 dark:text-slate-300 leading-relaxed text-[15px]">
+                                                    <p>{{ $section->legal_text }}</p>
                                                 </div>
+
+                                                @if ($section->plain_english)
+                                                    <div
+                                                        class="mt-5 p-5 rounded-2xl bg-brand-50/60 dark:bg-brand-900/10 border border-brand-200/60 dark:border-brand-700/30">
+                                                        <div
+                                                            class="flex items-center gap-2 mb-2.5 text-brand-700 dark:text-brand-400 font-semibold text-xs uppercase tracking-wider">
+                                                            <svg class="w-3.5 h-3.5" fill="none"
+                                                                viewBox="0 0 24 24" stroke="currentColor"
+                                                                stroke-width="2">
+                                                                <path stroke-linecap="round" stroke-linejoin="round"
+                                                                    d="M13 10V3L4 14h7v7l9-11h-7z" />
+                                                            </svg>
+                                                            Plain English
+                                                        </div>
+                                                        <p
+                                                            class="text-slate-700 dark:text-slate-300 text-sm leading-relaxed">
+                                                            {{ $section->plain_english }}</p>
+                                                    </div>
+                                                @endif
+
+                                                @if ($section->keywords && count($section->keywords) > 0)
+                                                    <div class="mt-4 flex flex-wrap gap-2">
+                                                        @foreach ($section->keywords as $keyword)
+                                                            <span
+                                                                class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-300">
+                                                                {{ $keyword }}
+                                                            </span>
+                                                        @endforeach
+                                                    </div>
+                                                @endif
                                             @endif
 
-                                            {{-- Keywords --}}
-                                            @if ($section->keywords && count($section->keywords) > 0)
-                                                <div class="mt-4 flex flex-wrap gap-2">
-                                                    @foreach ($section->keywords as $keyword)
-                                                        <span
-                                                            class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium
-                                                                     bg-slate-100 dark:bg-slate-800
-                                                                     text-slate-600 dark:text-slate-300">
-                                                            {{ $keyword }}
-                                                        </span>
+                                            {{-- Render Subsections --}}
+                                            @if ($section->children->isNotEmpty())
+                                                <div class="mt-6 space-y-8">
+                                                    @foreach ($section->children as $subsection)
+                                                        <div
+                                                            class="group/sub flex flex-col md:flex-row gap-4 md:gap-6 pl-2 md:pl-4 border-l-2 border-slate-100 dark:border-slate-800 hover:border-brand-300 dark:hover:border-brand-700 transition-colors">
+
+                                                            {{-- Subsection number and badges --}}
+                                                            <div
+                                                                class="shrink-0 flex items-center md:items-start gap-3 md:w-16 pt-1">
+                                                                <span
+                                                                    class="font-bold font-serif text-slate-900 dark:text-white text-lg">
+                                                                    {{ $subsection->subsection_number }}
+                                                                </span>
+
+                                                                @if ($subsection->verifiedBy)
+                                                                    <span
+                                                                        title="Verified by {{ $subsection->verifiedBy->name }}"
+                                                                        class="md:hidden inline-flex items-center gap-1 px-1.5 py-0.5 rounded text-[9px] font-sans font-bold uppercase tracking-wider bg-emerald-50 text-emerald-600 dark:bg-emerald-900/30 dark:text-emerald-400 border border-emerald-100 dark:border-emerald-800">
+                                                                        <svg class="w-2 h-2" fill="none"
+                                                                            viewBox="0 0 24 24" stroke="currentColor"
+                                                                            stroke-width="3">
+                                                                            <path stroke-linecap="round"
+                                                                                stroke-linejoin="round"
+                                                                                d="M5 13l4 4L19 7" />
+                                                                        </svg>
+                                                                    </span>
+                                                                @endif
+                                                            </div>
+
+                                                            {{-- Subsection content --}}
+                                                            <div class="flex-1 min-w-0">
+                                                                <div
+                                                                    class="prose prose-slate dark:prose-invert max-w-none font-serif text-slate-700 dark:text-slate-300 leading-relaxed text-[15px]">
+                                                                    <p>{{ $subsection->legal_text }}</p>
+                                                                </div>
+
+                                                                @if ($subsection->plain_english)
+                                                                    <div
+                                                                        class="mt-4 p-4 rounded-xl bg-brand-50/40 dark:bg-brand-900/10 border border-brand-100 dark:border-brand-700/30">
+                                                                        <div
+                                                                            class="flex items-center gap-2 mb-2 text-brand-700 dark:text-brand-400 font-semibold text-[11px] uppercase tracking-wider">
+                                                                            <svg class="w-3 h-3" fill="none"
+                                                                                viewBox="0 0 24 24"
+                                                                                stroke="currentColor"
+                                                                                stroke-width="2">
+                                                                                <path stroke-linecap="round"
+                                                                                    stroke-linejoin="round"
+                                                                                    d="M13 10V3L4 14h7v7l9-11h-7z" />
+                                                                            </svg>
+                                                                            Plain English
+                                                                        </div>
+                                                                        <p
+                                                                            class="text-slate-600 dark:text-slate-400 text-[13px] leading-relaxed">
+                                                                            {{ $subsection->plain_english }}</p>
+                                                                    </div>
+                                                                @endif
+
+                                                                <div class="mt-3 flex items-center flex-wrap gap-2">
+                                                                    @if ($subsection->verifiedBy)
+                                                                        <span
+                                                                            class="hidden md:inline-flex items-center gap-1 px-2 py-0.5 rounded text-[10px] font-sans font-semibold uppercase tracking-wider bg-emerald-50 text-emerald-600 dark:bg-emerald-900/30 dark:text-emerald-400 border border-emerald-100 dark:border-emerald-800">
+                                                                            <svg class="w-2.5 h-2.5" fill="none"
+                                                                                viewBox="0 0 24 24"
+                                                                                stroke="currentColor"
+                                                                                stroke-width="2.5">
+                                                                                <path stroke-linecap="round"
+                                                                                    stroke-linejoin="round"
+                                                                                    d="M5 13l4 4L19 7" />
+                                                                            </svg>
+                                                                            Verified by
+                                                                            {{ explode(' ', trim($subsection->verifiedBy->name))[0] }}
+                                                                        </span>
+                                                                    @endif
+
+                                                                    @if ($subsection->keywords && count($subsection->keywords) > 0)
+                                                                        @foreach ($subsection->keywords as $keyword)
+                                                                            <span
+                                                                                class="inline-flex items-center px-2 py-0.5 rounded text-[10px] font-medium bg-slate-100 dark:bg-slate-800 text-slate-500 dark:text-slate-400">
+                                                                                {{ $keyword }}
+                                                                            </span>
+                                                                        @endforeach
+                                                                    @endif
+
+                                                                    @if ($subsection->caseLaws->isNotEmpty() || $subsection->internationalComparisons->isNotEmpty())
+                                                                        <button
+                                                                            @click="openSlideover({{ $subsection->toJson() }})"
+                                                                            class="ml-auto opacity-0 group-hover/sub:opacity-100 transition-opacity flex items-center gap-1.5 text-[11px] font-semibold text-brand-600 dark:text-brand-400 hover:text-brand-800 dark:hover:text-brand-300">
+                                                                            <svg class="w-3 h-3" fill="none"
+                                                                                viewBox="0 0 24 24"
+                                                                                stroke="currentColor"
+                                                                                stroke-width="2">
+                                                                                <path stroke-linecap="round"
+                                                                                    stroke-linejoin="round"
+                                                                                    d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                                                                            </svg>
+                                                                            View Insights
+                                                                        </button>
+                                                                    @endif
+                                                                </div>
+                                                            </div>
+                                                        </div>
                                                     @endforeach
                                                 </div>
                                             @endif
