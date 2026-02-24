@@ -12,3 +12,5 @@ tests/
 docker-compose.yml
 python_worker/venv/
 python_worker/__pycache__/
+init-letsencrypt.sh
+certbot/
