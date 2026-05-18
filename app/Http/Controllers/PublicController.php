@@ -11,23 +11,23 @@ class PublicController extends Controller
     {
         $chapters = ConstitutionNode::where('type', 'chapter')
              ->where(function($q) {
-                 $q->where('status', 'published')
+                 $q->whereIn('status', ['published', 'ai_generated'])
                    ->orWhereHas('children', function($sq) {
-                       $sq->where('status', 'published')
+                       $sq->whereIn('status', ['published', 'ai_generated'])
                           ->orWhereHas('children', function($ssq) {
-                              $ssq->where('status', 'published');
+                              $ssq->whereIn('status', ['published', 'ai_generated']);
                           });
                    });
              })
              ->with(['children' => function($q) {
                  $q->where(function($sq) {
-                     $sq->where('status', 'published')
+                     $sq->whereIn('status', ['published', 'ai_generated'])
                         ->orWhereHas('children', function($ssq) {
-                            $ssq->where('status', 'published');
+                            $ssq->whereIn('status', ['published', 'ai_generated']);
                         });
                  })
                  ->with(['children' => function($sq) {
-                     $sq->where('status', 'published')
+                     $sq->whereIn('status', ['published', 'ai_generated'])
                         ->with(['caseLaws', 'internationalComparisons', 'verifiedBy'])
                         ->orderBy('subsection_sort');
                  }])
@@ -38,5 +38,10 @@ class PublicController extends Controller
              ->get();
 
         return view('public.index', compact('chapters'));
+    }
+
+    public function about()
+    {
+        return view('public.about');
     }
 }
